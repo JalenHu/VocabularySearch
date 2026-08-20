@@ -3,7 +3,7 @@ import "./SearchFilters.css";
 const MATCH_MODES = [
   { value: "StartsWith", label: "字首 Start with" },
   { value: "EndsWith", label: "字尾 End with" },
-  { value: "Between", label: "中間 Between with" }
+  { value: "Between", label: "包含 Contains" }
 ];
 
 const SORT_DIRECTIONS = [
