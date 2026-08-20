@@ -6,9 +6,11 @@ const MATCH_MODES = [
   { value: "Between", label: "包含 Contains" }
 ];
 
+// Letter count always goes shortest-to-longest (easier words first); these
+// only flip the alphabetical order of words that share a letter count.
 const SORT_DIRECTIONS = [
-  { value: "Ascending", label: "A → Z 字母由少到多" },
-  { value: "Descending", label: "Z → A 字母由多到少" }
+  { value: "Ascending", label: "A → Z" },
+  { value: "Descending", label: "Z → A" }
 ];
 
 /**

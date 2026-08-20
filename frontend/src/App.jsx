@@ -83,7 +83,7 @@ function App() {
         <p className="page__overline">Vocabulary Search · Chinese ⇄ English</p>
         <h1 className="page__title">依字母規則查單字</h1>
         <p className="page__subtitle">
-          輸入字母並選擇搜尋方式：字首、字尾或中間出現，還能設定顯示筆數與排序方式，設定完成後按下搜尋。
+          輸入字母並選擇搜尋方式：字首、字尾或包含，還能設定顯示筆數與字母排序方式，設定完成後按下搜尋。單字一律由易到難（字母少到多）排列。
           {totalVocabulary != null && (
             <>
               {" "}

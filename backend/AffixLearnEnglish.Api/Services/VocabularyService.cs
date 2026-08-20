@@ -47,9 +47,12 @@ public class VocabularyService : IVocabularyService
 
         var totalMatches = query.Count();
 
+        // Letter count always goes shortest-to-longest (the teaching progression:
+        // easier words first) regardless of sort direction — direction only flips
+        // the alphabetical tie-break within words that share a letter count.
         query = request.SortDirection == WordCountSortDirection.Ascending
             ? query.OrderBy(w => w.LetterCount).ThenBy(w => w.EnglishWord)
-            : query.OrderByDescending(w => w.LetterCount).ThenBy(w => w.EnglishWord);
+            : query.OrderBy(w => w.LetterCount).ThenByDescending(w => w.EnglishWord);
 
         if (request.MaxResults is > 0)
         {
