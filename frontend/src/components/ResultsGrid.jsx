@@ -23,7 +23,8 @@ function fullPartOfSpeech(pos) {
 }
 
 // One row per word, left-to-right in the same order as the source
-// spreadsheet's columns: 字母數, 英語單字 (linked), 詞性, 中文單字, 造句.
+// spreadsheet's columns: 字母數, 英語單字, 詞性, 中文單字, 造句,
+// plus a "Learn more" link at the end to the dictionary entry.
 export default function ResultsGrid({ words, isLoading }) {
   if (isLoading) {
     return <p className="results-grid__status">搜尋中…</p>;
@@ -38,19 +39,22 @@ export default function ResultsGrid({ words, isLoading }) {
       {words.map((word) => (
         <article key={word.id} className="word-row">
           <span className="word-row__count">{word.letterCount}</span>
-          <a
-            className="word-row__word"
-            href={word.dictionaryUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            {word.englishWord}
-          </a>
+          <span className="word-row__word">{word.englishWord}</span>
           <span className="word-row__pos" title={fullPartOfSpeech(word.partOfSpeech)}>
             {word.partOfSpeech || "—"}
           </span>
           <span className="word-row__meaning">{word.chineseMeaning}</span>
           {word.exampleSentence && <span className="word-row__sentence">{word.exampleSentence}</span>}
+          {word.dictionaryUrl && (
+            <a
+              className="word-row__learn-more"
+              href={word.dictionaryUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              查看字典 Learn more ›
+            </a>
+          )}
         </article>
       ))}
     </div>

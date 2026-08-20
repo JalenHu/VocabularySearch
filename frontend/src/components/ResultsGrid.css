@@ -35,12 +35,7 @@
   min-width: 6rem;
   font-size: 1.1rem;
   font-weight: 700;
-  color: var(--color-accent);
-  text-decoration: none;
-}
-
-.word-row__word:hover {
-  text-decoration: underline;
+  color: var(--color-text);
 }
 
 .word-row__pos {
@@ -66,6 +61,18 @@
   font-size: 0.9rem;
   color: var(--color-text-muted);
   font-style: italic;
+}
+
+.word-row__learn-more {
+  flex-basis: 100%;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.word-row__learn-more:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 640px) {
