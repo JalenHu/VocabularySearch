@@ -1,0 +1,55 @@
+:root {
+  /* Warm cream / deep-coffee palette, matched to the approved design mock. */
+  --color-bg: #faf6ef;
+  --color-surface: #ffffff;
+  --color-border: #e8e0d3;
+  --color-divider: #e8e0d3;
+
+  --color-text: #241b13;
+  --color-text-muted: #8a8072;
+  --color-text-faint: #b3a999;
+
+  --color-accent: #4a2e1d;
+  --color-accent-strong: #3a2315;
+  --color-accent-soft: rgba(74, 46, 29, 0.12);
+  --color-on-accent: #fdf9f3;
+
+  --font-sans: "Inter", "Noto Sans TC", system-ui, "Segoe UI", Roboto, sans-serif;
+
+  color-scheme: light;
+  color: var(--color-text);
+  background: var(--color-bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+#root {
+  min-height: 100svh;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+button, input {
+  font-family: inherit;
+}

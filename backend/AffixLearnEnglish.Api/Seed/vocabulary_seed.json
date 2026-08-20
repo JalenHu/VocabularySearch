@@ -1,0 +1,8794 @@
+[
+  {
+    "englishWord": "act",
+    "partOfSpeech": "n",
+    "chineseMeaning": "行動 行為",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "act",
+    "partOfSpeech": "v",
+    "chineseMeaning": "行為 主演",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "age",
+    "partOfSpeech": "n",
+    "chineseMeaning": "年齡",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ago",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "以前",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "air",
+    "partOfSpeech": "n",
+    "chineseMeaning": "空氣",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "all",
+    "partOfSpeech": "adj.",
+    "chineseMeaning": "所有的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "and",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "和 而且",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ant",
+    "partOfSpeech": "n",
+    "chineseMeaning": "螞蟻",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "any",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "任何",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "are",
+    "partOfSpeech": "v",
+    "chineseMeaning": "是(和you連用)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "arm",
+    "partOfSpeech": "n",
+    "chineseMeaning": "手臂",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "art",
+    "partOfSpeech": "n",
+    "chineseMeaning": "藝術",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ask",
+    "partOfSpeech": "v",
+    "chineseMeaning": "詢問",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bad",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "壞的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bag",
+    "partOfSpeech": "n",
+    "chineseMeaning": "袋子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蝙蝠 球棒",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bed",
+    "partOfSpeech": "n",
+    "chineseMeaning": "床",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bee",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蜜蜂 蜂",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "big",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "大的",
+    "letterCount": 3,
+    "exampleSentence": "How big the birthday cake is! 這生日蛋糕好大呀！"
+  },
+  {
+    "englishWord": "bow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "鞠躬",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "box",
+    "partOfSpeech": "n",
+    "chineseMeaning": "箱子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "boy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "男孩",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bug",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蟲子 故障 毛病",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bun",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小圓麵包",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bus",
+    "partOfSpeech": "n",
+    "chineseMeaning": "巴士 公車",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "but",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "但是",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "buy",
+    "partOfSpeech": "v",
+    "chineseMeaning": "購買",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "can",
+    "partOfSpeech": "n",
+    "chineseMeaning": "罐頭 金屬容器",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cap",
+    "partOfSpeech": "n",
+    "chineseMeaning": "帽子 無邊便帽 制服帽",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "car",
+    "partOfSpeech": "n",
+    "chineseMeaning": "汽車",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "貓",
+    "letterCount": 3,
+    "exampleSentence": "When the cat is away, the mice will play. 貓兒不在，老鼠翻天。"
+  },
+  {
+    "englishWord": "cow",
+    "partOfSpeech": "n",
+    "chineseMeaning": "母牛 奶牛",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "哭 叫 喊",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cup",
+    "partOfSpeech": "n",
+    "chineseMeaning": "杯子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cut",
+    "partOfSpeech": "v",
+    "chineseMeaning": "刻痕 割傷",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dad",
+    "partOfSpeech": "n",
+    "chineseMeaning": "爸爸(口語)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "day",
+    "partOfSpeech": "n",
+    "chineseMeaning": "天",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "die",
+    "partOfSpeech": "v",
+    "chineseMeaning": "死",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dig",
+    "partOfSpeech": "v",
+    "chineseMeaning": "掘(土) 挖(洞 溝等)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dog",
+    "partOfSpeech": "n",
+    "chineseMeaning": "狗",
+    "letterCount": 3,
+    "exampleSentence": "He keeps a dog to guard the house. 他養一條狗看家。"
+  },
+  {
+    "englishWord": "dot",
+    "partOfSpeech": "n",
+    "chineseMeaning": "點",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "烘乾",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ear",
+    "partOfSpeech": "n",
+    "chineseMeaning": "耳朵",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eat",
+    "partOfSpeech": "v",
+    "chineseMeaning": "吃",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "egg",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蛋",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "end",
+    "partOfSpeech": "n",
+    "chineseMeaning": "結束 終止 盡頭",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eve",
+    "partOfSpeech": "n",
+    "chineseMeaning": "前夕",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eye",
+    "partOfSpeech": "n",
+    "chineseMeaning": "眼睛",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fan",
+    "partOfSpeech": "n",
+    "chineseMeaning": "扇子 風扇",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "far",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "遙遠的 久遠的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fat",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "胖的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "few",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "少數的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fix",
+    "partOfSpeech": "v",
+    "chineseMeaning": "固定 修理",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fly",
+    "partOfSpeech": "v",
+    "chineseMeaning": "飛行 蒼蠅",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "for",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "為了",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fox",
+    "partOfSpeech": "n",
+    "chineseMeaning": "狐狸",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "油煎 油炸 油炒",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fun",
+    "partOfSpeech": "n",
+    "chineseMeaning": "娛樂 樂趣",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gas",
+    "partOfSpeech": "n",
+    "chineseMeaning": "氣體  瓦斯",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "get",
+    "partOfSpeech": "v",
+    "chineseMeaning": "得到",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "guy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "傢伙(口語)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gym",
+    "partOfSpeech": "n",
+    "chineseMeaning": "體操 體育館",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ham",
+    "partOfSpeech": "n",
+    "chineseMeaning": "火腿",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "帽子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "母雞",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "her",
+    "partOfSpeech": "pron_adj",
+    "chineseMeaning": "她的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hit",
+    "partOfSpeech": "v",
+    "chineseMeaning": "打 打擊 襲擊",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hop",
+    "partOfSpeech": "v",
+    "chineseMeaning": "跳過 躍過",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hot",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "熱的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "how",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "怎麼",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ice",
+    "partOfSpeech": "n",
+    "chineseMeaning": "冰",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "its",
+    "partOfSpeech": "pron_adj",
+    "chineseMeaning": "它的(it的所有格)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "job",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工作",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "jog",
+    "partOfSpeech": "v",
+    "chineseMeaning": "輕搖",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "joy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "喜悅",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "key",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鑰匙 關鍵",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "key",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "主要的 關鍵的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kid",
+    "partOfSpeech": "n",
+    "chineseMeaning": "孩子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "leg",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腿",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "let",
+    "partOfSpeech": "v",
+    "chineseMeaning": "讓",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lid",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蓋子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lie",
+    "partOfSpeech": "v",
+    "chineseMeaning": "躺  說謊 位於",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lip",
+    "partOfSpeech": "n",
+    "chineseMeaning": "嘴唇",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "low",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "低的 矮的 淺的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mad",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "發瘋的 發狂的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "man",
+    "partOfSpeech": "n",
+    "chineseMeaning": "成年男子(單數)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "map",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地圖",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地蓆 草蓆",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "May",
+    "partOfSpeech": "n",
+    "chineseMeaning": "五月",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "may",
+    "partOfSpeech": "modal",
+    "chineseMeaning": "可能",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "媽媽(簡寫)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mop",
+    "partOfSpeech": "v",
+    "chineseMeaning": "拖(地)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "MRT",
+    "partOfSpeech": "n",
+    "chineseMeaning": "捷運",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mud",
+    "partOfSpeech": "n",
+    "chineseMeaning": "泥 泥漿",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "net",
+    "partOfSpeech": "n",
+    "chineseMeaning": "網子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "new",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "新的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nod",
+    "partOfSpeech": "v",
+    "chineseMeaning": "點頭",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "not",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "不是的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "now",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "現在",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "oil",
+    "partOfSpeech": "n",
+    "chineseMeaning": "油",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "old",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "老的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "one",
+    "partOfSpeech": "num",
+    "chineseMeaning": "一",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "out",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "在外 向外",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "own",
+    "partOfSpeech": "v",
+    "chineseMeaning": "擁有",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "own",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "自己的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pay",
+    "partOfSpeech": "v",
+    "chineseMeaning": "薪俸 報酬 支付",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "筆",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pet",
+    "partOfSpeech": "n",
+    "chineseMeaning": "寵物",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pie",
+    "partOfSpeech": "n",
+    "chineseMeaning": "餅",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pig",
+    "partOfSpeech": "n",
+    "chineseMeaning": "豬",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pin",
+    "partOfSpeech": "n",
+    "chineseMeaning": "大頭針 別針",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pot",
+    "partOfSpeech": "n",
+    "chineseMeaning": "罐",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "put",
+    "partOfSpeech": "v",
+    "chineseMeaning": "投入",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鼠 背叛 密告",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "red",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "紅色的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ROC",
+    "partOfSpeech": "n",
+    "chineseMeaning": "中華民國(縮寫)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "row",
+    "partOfSpeech": "n",
+    "chineseMeaning": "列 排",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "row",
+    "partOfSpeech": "v",
+    "chineseMeaning": "划(船) 泛(舟)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "run",
+    "partOfSpeech": "v",
+    "chineseMeaning": "跑",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sad",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "悲哀的 令人悲痛的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "say",
+    "partOfSpeech": "v",
+    "chineseMeaning": "說 講",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sea",
+    "partOfSpeech": "n",
+    "chineseMeaning": "海",
+    "letterCount": 3,
+    "exampleSentence": "We saw many boats sailing on the sea. 我們看到許多條船在大海上航行。"
+  },
+  {
+    "englishWord": "see",
+    "partOfSpeech": "v",
+    "chineseMeaning": "看見",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "set",
+    "partOfSpeech": "v",
+    "chineseMeaning": "設置",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "she",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "她",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "羞怯的 怕羞的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sir",
+    "partOfSpeech": "n",
+    "chineseMeaning": "先生 長官",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sit",
+    "partOfSpeech": "v",
+    "chineseMeaning": "坐",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "six",
+    "partOfSpeech": "num",
+    "chineseMeaning": "六",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sky",
+    "partOfSpeech": "n",
+    "chineseMeaning": "天空",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "son",
+    "partOfSpeech": "n",
+    "chineseMeaning": "兒子",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sun",
+    "partOfSpeech": "n",
+    "chineseMeaning": "太陽",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tea",
+    "partOfSpeech": "n",
+    "chineseMeaning": "茶",
+    "letterCount": 3,
+    "exampleSentence": "I prefer tea to coffee. 我喜歡茶勝於咖啡。"
+  },
+  {
+    "englishWord": "ten",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "the",
+    "partOfSpeech": "det",
+    "chineseMeaning": "這(個)",
+    "letterCount": 3,
+    "exampleSentence": "Do you know the man talking to the boss? 你認識那個在跟老板說話的男人嗎？"
+  },
+  {
+    "englishWord": "tie",
+    "partOfSpeech": "n",
+    "chineseMeaning": "領帶",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tie",
+    "partOfSpeech": "v",
+    "chineseMeaning": "綁",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "toe",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腳趾",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "too",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "也 (用於肯定句)",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "top",
+    "partOfSpeech": "n",
+    "chineseMeaning": "頂部 山頂 頭頂",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "toy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "玩具",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "try",
+    "partOfSpeech": "v",
+    "chineseMeaning": "嘗試",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tub",
+    "partOfSpeech": "n",
+    "chineseMeaning": "桶  木盆",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "two",
+    "partOfSpeech": "num",
+    "chineseMeaning": "二",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "USA",
+    "partOfSpeech": "n",
+    "chineseMeaning": "美國(縮寫)",
+    "letterCount": 3,
+    "exampleSentence": "He is living in the USA. =他現在在美國住。"
+  },
+  {
+    "englishWord": "use",
+    "partOfSpeech": "v",
+    "chineseMeaning": "使用",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "way",
+    "partOfSpeech": "n",
+    "chineseMeaning": "方式",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wet",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "濕的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "who",
+    "partOfSpeech": "wh",
+    "chineseMeaning": "誰",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "why",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "為什麼",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "win",
+    "partOfSpeech": "v",
+    "chineseMeaning": "勝利 贏得",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yes",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "是的",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yet",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "然而  但是",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "you",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "你",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "zoo",
+    "partOfSpeech": "n",
+    "chineseMeaning": "動物園",
+    "letterCount": 3,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "able",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有能力的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "also",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "還有 也是(會)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "aunt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "伯母 嬸母 姑母 姨母 舅母",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "away",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "離開( go ~ )",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "baby",
+    "partOfSpeech": "n",
+    "chineseMeaning": "嬰孩",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "back",
+    "partOfSpeech": "n",
+    "chineseMeaning": "後面",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bake",
+    "partOfSpeech": "v",
+    "chineseMeaning": "烘  烤",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ball",
+    "partOfSpeech": "n",
+    "chineseMeaning": "球  舞會",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "band",
+    "partOfSpeech": "n",
+    "chineseMeaning": "樂隊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bank",
+    "partOfSpeech": "n",
+    "chineseMeaning": "銀行 堤 岸",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "base",
+    "partOfSpeech": "v",
+    "chineseMeaning": "基地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bath",
+    "partOfSpeech": "n",
+    "chineseMeaning": "浴缸 澡盆 沐浴",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bean",
+    "partOfSpeech": "n",
+    "chineseMeaning": "豆",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bear",
+    "partOfSpeech": "n",
+    "chineseMeaning": "熊熊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "beef",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牛肉",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bell",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鐘 鈴 門鈴",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "belt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腰帶 (安全)帶",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bike",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腳踏車",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bird",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鳥",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bite",
+    "partOfSpeech": "v",
+    "chineseMeaning": "咬 叮",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "吹 隨風飄動",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blow",
+    "partOfSpeech": "n",
+    "chineseMeaning": "重擊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blue",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "藍色",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "boat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "船",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "body",
+    "partOfSpeech": "n",
+    "chineseMeaning": "身體",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "boil",
+    "partOfSpeech": "v",
+    "chineseMeaning": "沸騰  煮沸",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "book",
+    "partOfSpeech": "n",
+    "chineseMeaning": "書",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "born",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "出生",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "boss",
+    "partOfSpeech": "n",
+    "chineseMeaning": "老板  上司",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "both",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "兩方的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bowl",
+    "partOfSpeech": "n",
+    "chineseMeaning": "碗",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "burn",
+    "partOfSpeech": "n",
+    "chineseMeaning": "燒傷",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "busy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "忙碌的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cage",
+    "partOfSpeech": "n",
+    "chineseMeaning": "籠子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cake",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蛋糕 糕餅",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "call",
+    "partOfSpeech": "v",
+    "chineseMeaning": "打電話",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "camp",
+    "partOfSpeech": "n",
+    "chineseMeaning": "紮營  宿營  露營",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "card",
+    "partOfSpeech": "n",
+    "chineseMeaning": "卡片",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "care",
+    "partOfSpeech": "v",
+    "chineseMeaning": "關心 在乎 看護",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "case",
+    "partOfSpeech": "n",
+    "chineseMeaning": "案件",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cent",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一分值的硬幣",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "city",
+    "partOfSpeech": "n",
+    "chineseMeaning": "城市",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clap",
+    "partOfSpeech": "v",
+    "chineseMeaning": "拍手",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "club",
+    "partOfSpeech": "n",
+    "chineseMeaning": "俱樂部 社團",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "coat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "外套",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Coke",
+    "partOfSpeech": "n",
+    "chineseMeaning": "可口可樂(公司名)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cola",
+    "partOfSpeech": "n",
+    "chineseMeaning": "可樂",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cold",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "寒冷",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "comb",
+    "partOfSpeech": "n",
+    "chineseMeaning": "梳子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "come",
+    "partOfSpeech": "v",
+    "chineseMeaning": "來",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cook",
+    "partOfSpeech": "n",
+    "chineseMeaning": "廚師",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cook",
+    "partOfSpeech": "v",
+    "chineseMeaning": "烹調",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cool",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "涼快的 涼爽的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "copy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "抄本 副本",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "copy",
+    "partOfSpeech": "v",
+    "chineseMeaning": "複製",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cost",
+    "partOfSpeech": "n",
+    "chineseMeaning": "費用 成本 花掉",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cute",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "可愛的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dark",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "黑暗的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "date",
+    "partOfSpeech": "n",
+    "chineseMeaning": "日期 日子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dead",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "死的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "deal",
+    "partOfSpeech": "v",
+    "chineseMeaning": "交易 處理(+with)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dear",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "親愛的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "desk",
+    "partOfSpeech": "n",
+    "chineseMeaning": "書桌",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dish",
+    "partOfSpeech": "n",
+    "chineseMeaning": "碟盤",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "doll",
+    "partOfSpeech": "n",
+    "chineseMeaning": "玩偶 洋娃娃",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "done",
+    "partOfSpeech": "v",
+    "chineseMeaning": "做(do的過去分詞)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "door",
+    "partOfSpeech": "n",
+    "chineseMeaning": "門",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "down",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "向下",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "draw",
+    "partOfSpeech": "v",
+    "chineseMeaning": "畫 繪製 描寫",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drop",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一滴",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drop",
+    "partOfSpeech": "v",
+    "chineseMeaning": "流下來 滴落 放下",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drum",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鼓",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "duck",
+    "partOfSpeech": "v",
+    "chineseMeaning": "鴨肉 鴨子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "each",
+    "partOfSpeech": "det",
+    "chineseMeaning": "每個",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "east",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "東方",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "easy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "容易",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "else",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "別的 其他的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "even",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "甚至 連 平滑的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ever",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "曾經",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "face",
+    "partOfSpeech": "n",
+    "chineseMeaning": "臉 面子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fact",
+    "partOfSpeech": "n",
+    "chineseMeaning": "事實",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fail",
+    "partOfSpeech": "v",
+    "chineseMeaning": "失敗",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fall",
+    "partOfSpeech": "v",
+    "chineseMeaning": "落下 跌倒",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fall",
+    "partOfSpeech": "n",
+    "chineseMeaning": "秋天",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "farm",
+    "partOfSpeech": "n",
+    "chineseMeaning": "農場 飼養場 畜牧場",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fast",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "快的 迅速的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "feed",
+    "partOfSpeech": "v",
+    "chineseMeaning": "餵食 飼養",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "feel",
+    "partOfSpeech": "v",
+    "chineseMeaning": "感覺 覺得",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fill",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "裝滿的 充滿的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "find",
+    "partOfSpeech": "v",
+    "chineseMeaning": "發現",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fine",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "健康的 優秀的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fire",
+    "partOfSpeech": "v",
+    "chineseMeaning": "開除 開(槍砲)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fire",
+    "partOfSpeech": "n",
+    "chineseMeaning": "火",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fish",
+    "partOfSpeech": "n",
+    "chineseMeaning": "釣魚",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "five",
+    "partOfSpeech": "num",
+    "chineseMeaning": "五",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "food",
+    "partOfSpeech": "n",
+    "chineseMeaning": "食物",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "foot",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腳",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fork",
+    "partOfSpeech": "n",
+    "chineseMeaning": "叉子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "four",
+    "partOfSpeech": "num",
+    "chineseMeaning": "四",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "free",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "自由的 免費的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "frog",
+    "partOfSpeech": "n",
+    "chineseMeaning": "青蛙",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "from",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "從",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "full",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "充滿的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "game",
+    "partOfSpeech": "n",
+    "chineseMeaning": "遊戲",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gate",
+    "partOfSpeech": "n",
+    "chineseMeaning": "大門 柵欄門",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gift",
+    "partOfSpeech": "n",
+    "chineseMeaning": "禮物",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "girl",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女孩",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "give",
+    "partOfSpeech": "v",
+    "chineseMeaning": "給",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "glad",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "高興的 快活的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "glue",
+    "partOfSpeech": "n",
+    "chineseMeaning": "膠水 黏著劑",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "goat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "山羊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "good",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "好的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gram",
+    "partOfSpeech": "n",
+    "chineseMeaning": "克(重量單位)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "gray",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "灰色的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "增長",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hair",
+    "partOfSpeech": "n",
+    "chineseMeaning": "頭髮",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "half",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一半",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hand",
+    "partOfSpeech": "n",
+    "chineseMeaning": "手",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hang",
+    "partOfSpeech": "v",
+    "chineseMeaning": "把...掛起",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hard",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "努力地 艱苦地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hard",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "困難的 艱困的 硬的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hate",
+    "partOfSpeech": "v",
+    "chineseMeaning": "仇恨 憎恨",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "have",
+    "partOfSpeech": "v",
+    "chineseMeaning": "已經 有",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "head",
+    "partOfSpeech": "n",
+    "chineseMeaning": "頭",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hear",
+    "partOfSpeech": "v",
+    "chineseMeaning": "聽見",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "heat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "熱度",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "help",
+    "partOfSpeech": "n",
+    "chineseMeaning": "幫助",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "here",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "這裡",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hers",
+    "partOfSpeech": "n",
+    "chineseMeaning": "她的東西",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hide",
+    "partOfSpeech": "v",
+    "chineseMeaning": "把...藏起來  隱藏",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "high",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "高的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hike",
+    "partOfSpeech": "n",
+    "chineseMeaning": "遠足",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hill",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小山",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hold",
+    "partOfSpeech": "v",
+    "chineseMeaning": "握著 抓住 舉行",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "home",
+    "partOfSpeech": "n",
+    "chineseMeaning": "家庭",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hope",
+    "partOfSpeech": "v",
+    "chineseMeaning": "希望",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hour",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小時",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hunt",
+    "partOfSpeech": "v",
+    "chineseMeaning": "打獵  捕捉",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hurt",
+    "partOfSpeech": "v",
+    "chineseMeaning": "受傷",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "idea",
+    "partOfSpeech": "n",
+    "chineseMeaning": "想法",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "inch",
+    "partOfSpeech": "n",
+    "chineseMeaning": "英吋",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "into",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "到...裡面",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "join",
+    "partOfSpeech": "v",
+    "chineseMeaning": "加入 連結 接合點",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "July",
+    "partOfSpeech": "n",
+    "chineseMeaning": "七月",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "jump",
+    "partOfSpeech": "v",
+    "chineseMeaning": "跳躍",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "June",
+    "partOfSpeech": "n",
+    "chineseMeaning": "六月",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "just",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "只是 剛才",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "just",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "公正的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "keep",
+    "partOfSpeech": "v",
+    "chineseMeaning": "保留",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kick",
+    "partOfSpeech": "v",
+    "chineseMeaning": "踢  驅逐",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kill",
+    "partOfSpeech": "v",
+    "chineseMeaning": "殺害",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kind",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "親切的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "king",
+    "partOfSpeech": "n",
+    "chineseMeaning": "國王",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kiss",
+    "partOfSpeech": "v",
+    "chineseMeaning": "親吻",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kite",
+    "partOfSpeech": "n",
+    "chineseMeaning": "風箏",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "knee",
+    "partOfSpeech": "n",
+    "chineseMeaning": "膝蓋 膝部",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "know",
+    "partOfSpeech": "v",
+    "chineseMeaning": "知道",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lake",
+    "partOfSpeech": "n",
+    "chineseMeaning": "湖",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lamp",
+    "partOfSpeech": "n",
+    "chineseMeaning": "燈 油燈 燈火",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "land",
+    "partOfSpeech": "n",
+    "chineseMeaning": "陸地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "land",
+    "partOfSpeech": "v",
+    "chineseMeaning": "降落",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "last",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "最後的 去(年) 昨(夜)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "late",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "遲的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lazy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "懶惰的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lead",
+    "partOfSpeech": "v",
+    "chineseMeaning": "主角",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "left",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "左邊的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lend",
+    "partOfSpeech": "v",
+    "chineseMeaning": "把...借給(+to)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "less",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "較小地 較少地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "life",
+    "partOfSpeech": "n",
+    "chineseMeaning": "生活",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "like",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "和…一樣",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "line",
+    "partOfSpeech": "n",
+    "chineseMeaning": "線",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lion",
+    "partOfSpeech": "n",
+    "chineseMeaning": "獅子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "list",
+    "partOfSpeech": "n",
+    "chineseMeaning": "清單 名冊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "list",
+    "partOfSpeech": "v",
+    "chineseMeaning": "列出來",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "live",
+    "partOfSpeech": "v",
+    "chineseMeaning": "住",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "live",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "現場的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "long",
+    "partOfSpeech": "v",
+    "chineseMeaning": "渴望(+ for)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "look",
+    "partOfSpeech": "n",
+    "chineseMeaning": "看",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lose",
+    "partOfSpeech": "v",
+    "chineseMeaning": "失去  丟失  喪失",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "loud",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "大聲的 響亮地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "love",
+    "partOfSpeech": "n",
+    "chineseMeaning": "愛",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mail",
+    "partOfSpeech": "n",
+    "chineseMeaning": "郵寄 郵件",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "make",
+    "partOfSpeech": "v",
+    "chineseMeaning": "製做",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "many",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "許多(可數名詞)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mark",
+    "partOfSpeech": "n",
+    "chineseMeaning": "記號",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mask",
+    "partOfSpeech": "n",
+    "chineseMeaning": "面具",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "math",
+    "partOfSpeech": "n",
+    "chineseMeaning": "數學",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "meal",
+    "partOfSpeech": "n",
+    "chineseMeaning": "膳食  一餐",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mean",
+    "partOfSpeech": "v",
+    "chineseMeaning": "表示…的意思",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "meat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "肉",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "meet",
+    "partOfSpeech": "v",
+    "chineseMeaning": "集會 開會",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "menu",
+    "partOfSpeech": "n",
+    "chineseMeaning": "菜單",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mile",
+    "partOfSpeech": "n",
+    "chineseMeaning": "英哩",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "milk",
+    "partOfSpeech": "n",
+    "chineseMeaning": "乳 牛奶",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mind",
+    "partOfSpeech": "v",
+    "chineseMeaning": "介意 留意",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mine",
+    "partOfSpeech": "pron_n",
+    "chineseMeaning": "我的東西",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Miss",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小姐",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "miss",
+    "partOfSpeech": "v",
+    "chineseMeaning": "錯過  想念",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "moon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "月亮",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "more",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "更多的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "most",
+    "partOfSpeech": "n",
+    "chineseMeaning": "大部份",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "move",
+    "partOfSpeech": "v",
+    "chineseMeaning": "行動",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "much",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "許多(+不可數名詞)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "must",
+    "partOfSpeech": "modal",
+    "chineseMeaning": "必需",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nail",
+    "partOfSpeech": "n",
+    "chineseMeaning": "釘子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "name",
+    "partOfSpeech": "n",
+    "chineseMeaning": "名字",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "near",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…附近",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "neck",
+    "partOfSpeech": "n",
+    "chineseMeaning": "脖子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "need",
+    "partOfSpeech": "v",
+    "chineseMeaning": "需要",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "news",
+    "partOfSpeech": "n",
+    "chineseMeaning": "新聞 消息 報導",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "next",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "下一個 接下去",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nice",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "好的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nine",
+    "partOfSpeech": "num",
+    "chineseMeaning": "九",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "noon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "中午",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nose",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鼻子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "note",
+    "partOfSpeech": "v",
+    "chineseMeaning": "筆記",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "once",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "一次  一旦",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "only",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "唯一的 僅有的 只是",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "open",
+    "partOfSpeech": "v",
+    "chineseMeaning": "打開",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "open",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "開放的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ours",
+    "partOfSpeech": "pron_n",
+    "chineseMeaning": "我們的東西",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "over",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在...之上",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pack",
+    "partOfSpeech": "v",
+    "chineseMeaning": "裝箱   打包",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "page",
+    "partOfSpeech": "n",
+    "chineseMeaning": "頁",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pair",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一對 一雙",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "park",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公園",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "park",
+    "partOfSpeech": "v",
+    "chineseMeaning": "停車",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "part",
+    "partOfSpeech": "n",
+    "chineseMeaning": "部份",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pass",
+    "partOfSpeech": "v",
+    "chineseMeaning": "通過",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "past",
+    "partOfSpeech": "n",
+    "chineseMeaning": "過去  昔日",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "past",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "過去的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pear",
+    "partOfSpeech": "n",
+    "chineseMeaning": "洋梨",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pick",
+    "partOfSpeech": "v",
+    "chineseMeaning": "採擷 摘取",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pink",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "粉紅色的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pipe",
+    "partOfSpeech": "n",
+    "chineseMeaning": "管子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "plan",
+    "partOfSpeech": "n",
+    "chineseMeaning": "計劃 方案",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "play",
+    "partOfSpeech": "v",
+    "chineseMeaning": "玩(遊戲)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "play",
+    "partOfSpeech": "n",
+    "chineseMeaning": "戲劇",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pond",
+    "partOfSpeech": "n",
+    "chineseMeaning": "池塘",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pool",
+    "partOfSpeech": "n",
+    "chineseMeaning": "水池 池塘",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "poor",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "貧窮的 貧困的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pork",
+    "partOfSpeech": "n",
+    "chineseMeaning": "豬肉",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pray",
+    "partOfSpeech": "v",
+    "chineseMeaning": "祈禱  祈求",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pull",
+    "partOfSpeech": "v",
+    "chineseMeaning": "拉 拖",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "push",
+    "partOfSpeech": "v",
+    "chineseMeaning": "推 推動",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "quiz",
+    "partOfSpeech": "n",
+    "chineseMeaning": "測驗 考查",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "race",
+    "partOfSpeech": "n",
+    "chineseMeaning": "種族 比賽",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rain",
+    "partOfSpeech": "n",
+    "chineseMeaning": "雨 下雨",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "read",
+    "partOfSpeech": "v",
+    "chineseMeaning": "讀",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "real",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "真正的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rest",
+    "partOfSpeech": "v",
+    "chineseMeaning": "休息",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rest",
+    "partOfSpeech": "n",
+    "chineseMeaning": "剩下的東西",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rice",
+    "partOfSpeech": "n",
+    "chineseMeaning": "稻穀 米飯",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rich",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "富有的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ride",
+    "partOfSpeech": "v",
+    "chineseMeaning": "騎馬 乘車",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ring",
+    "partOfSpeech": "n",
+    "chineseMeaning": "戒指",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rise",
+    "partOfSpeech": "v",
+    "chineseMeaning": "(太'陽)升起",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "road",
+    "partOfSpeech": "n",
+    "chineseMeaning": "路",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rock",
+    "partOfSpeech": "n",
+    "chineseMeaning": "岩石",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "roll",
+    "partOfSpeech": "v",
+    "chineseMeaning": "滾動  打滾",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "room",
+    "partOfSpeech": "n",
+    "chineseMeaning": "室",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rope",
+    "partOfSpeech": "n",
+    "chineseMeaning": "繩索",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rose",
+    "partOfSpeech": "n",
+    "chineseMeaning": "玫瑰花",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rule",
+    "partOfSpeech": "n",
+    "chineseMeaning": "統治 控制 規則 規定",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "safe",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "安全的 保險箱",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sail",
+    "partOfSpeech": "v",
+    "chineseMeaning": "揚帆航行",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sale",
+    "partOfSpeech": "n",
+    "chineseMeaning": "出售",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "salt",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "鹹味的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "salt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鹽",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "same",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "同樣的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "save",
+    "partOfSpeech": "v",
+    "chineseMeaning": "挽救",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "座位",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seed",
+    "partOfSpeech": "n",
+    "chineseMeaning": "種子 籽",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sell",
+    "partOfSpeech": "v",
+    "chineseMeaning": "賣 出售",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "send",
+    "partOfSpeech": "v",
+    "chineseMeaning": "發送 寄",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ship",
+    "partOfSpeech": "n",
+    "chineseMeaning": "船艦",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shop",
+    "partOfSpeech": "n",
+    "chineseMeaning": "商店 工作坊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "show",
+    "partOfSpeech": "v",
+    "chineseMeaning": "顯示 露出",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sick",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有病的 病人的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "side",
+    "partOfSpeech": "n",
+    "chineseMeaning": "旁邊 側面 同陣營",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sign",
+    "partOfSpeech": "n",
+    "chineseMeaning": "符號  標誌  徵兆",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sign",
+    "partOfSpeech": "v",
+    "chineseMeaning": "簽名",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sing",
+    "partOfSpeech": "v",
+    "chineseMeaning": "唱歌",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "size",
+    "partOfSpeech": "n",
+    "chineseMeaning": "尺寸 大小",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "slim",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "纖細的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "slow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "放慢(down)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "snow",
+    "partOfSpeech": "n",
+    "chineseMeaning": "雪",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sofa",
+    "partOfSpeech": "n",
+    "chineseMeaning": "沙發",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "some",
+    "partOfSpeech": "det",
+    "chineseMeaning": "一些",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "song",
+    "partOfSpeech": "n",
+    "chineseMeaning": "歌曲",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "soon",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "不久 很快地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sore",
+    "partOfSpeech": "n",
+    "chineseMeaning": "痛  傷處",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "soup",
+    "partOfSpeech": "n",
+    "chineseMeaning": "湯",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "star",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stay",
+    "partOfSpeech": "v",
+    "chineseMeaning": "停留 留下",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stop",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公車站牌",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stop",
+    "partOfSpeech": "v",
+    "chineseMeaning": "停止 中斷",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sure",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "確信的 有把握的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "surf",
+    "partOfSpeech": "n",
+    "chineseMeaning": "海浪 浪花",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "swim",
+    "partOfSpeech": "v",
+    "chineseMeaning": "游泳",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tail",
+    "partOfSpeech": "n",
+    "chineseMeaning": "尾巴 尾部",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "take",
+    "partOfSpeech": "v",
+    "chineseMeaning": "拿 取",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "talk",
+    "partOfSpeech": "v",
+    "chineseMeaning": "談話",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tall",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "高的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tape",
+    "partOfSpeech": "n",
+    "chineseMeaning": "磁帶",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "taxi",
+    "partOfSpeech": "n",
+    "chineseMeaning": "計程車",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "team",
+    "partOfSpeech": "n",
+    "chineseMeaning": "團隊",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tell",
+    "partOfSpeech": "v",
+    "chineseMeaning": "告訴",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "test",
+    "partOfSpeech": "n",
+    "chineseMeaning": "測試",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "than",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "比",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "that",
+    "partOfSpeech": "det",
+    "chineseMeaning": "那個",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "them",
+    "partOfSpeech": "pron_o",
+    "chineseMeaning": "他們(they的受格)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "then",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "然後",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "they",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "他們",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thin",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "瘦小的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "this",
+    "partOfSpeech": "det",
+    "chineseMeaning": "這個",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tidy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "乾淨的 整齊的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "time",
+    "partOfSpeech": "n",
+    "chineseMeaning": "時間",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tool",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工具",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "town",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鎮 市鎮",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tree",
+    "partOfSpeech": "n",
+    "chineseMeaning": "樹",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "trip",
+    "partOfSpeech": "n",
+    "chineseMeaning": "旅行 航行 行程",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "turn",
+    "partOfSpeech": "v",
+    "chineseMeaning": "轉動",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "type",
+    "partOfSpeech": "n",
+    "chineseMeaning": "類型  型式  樣式",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "very",
+    "partOfSpeech": "v",
+    "chineseMeaning": "非常地",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "vest",
+    "partOfSpeech": "n",
+    "chineseMeaning": "背心",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wait",
+    "partOfSpeech": "v",
+    "chineseMeaning": "等待",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wake",
+    "partOfSpeech": "v",
+    "chineseMeaning": "醒來",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "walk",
+    "partOfSpeech": "v",
+    "chineseMeaning": "散步",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wall",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牆壁",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "want",
+    "partOfSpeech": "v",
+    "chineseMeaning": "需要",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "warm",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "溫暖的 暖和的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wash",
+    "partOfSpeech": "v",
+    "chineseMeaning": "清洗 洗濯",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wave",
+    "partOfSpeech": "n",
+    "chineseMeaning": "波浪",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wave",
+    "partOfSpeech": "v",
+    "chineseMeaning": "揮舞  揮動",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "weak",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "虛弱的 衰弱的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wear",
+    "partOfSpeech": "v",
+    "chineseMeaning": "穿著 戴著 佩帶著",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "week",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "well",
+    "partOfSpeech": "n",
+    "chineseMeaning": "井水",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "west",
+    "partOfSpeech": "n",
+    "chineseMeaning": "西方",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "what",
+    "partOfSpeech": "wh",
+    "chineseMeaning": "什麼",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "when",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "當…的時候",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wife",
+    "partOfSpeech": "n",
+    "chineseMeaning": "妻子",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "will",
+    "partOfSpeech": "n",
+    "chineseMeaning": "意志",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wind",
+    "partOfSpeech": "n",
+    "chineseMeaning": "風",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wise",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有智慧的  聰明的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wish",
+    "partOfSpeech": "v",
+    "chineseMeaning": "希望 願望",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "with",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "和...一起",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "word",
+    "partOfSpeech": "n",
+    "chineseMeaning": "詞",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "work",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工作",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yard",
+    "partOfSpeech": "n",
+    "chineseMeaning": "庭院  碼(長度)",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "year",
+    "partOfSpeech": "n",
+    "chineseMeaning": "年",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "your",
+    "partOfSpeech": "pron_adj",
+    "chineseMeaning": "你的",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "zero",
+    "partOfSpeech": "n",
+    "chineseMeaning": "零",
+    "letterCount": 4,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "about",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "關於",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "above",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…的上面",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "actor",
+    "partOfSpeech": "n",
+    "chineseMeaning": "男演員",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ijpunhjhighbu",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "以後",
+    "letterCount": 13,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "again",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "再(一次)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "agree",
+    "partOfSpeech": "v",
+    "chineseMeaning": "意見一致 同意",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ahead",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "向前",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "along",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "沿著 順著",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "angry",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "生氣的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "apple",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蘋果",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "April",
+    "partOfSpeech": "n",
+    "chineseMeaning": "四月",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "beach",
+    "partOfSpeech": "n",
+    "chineseMeaning": "海灘",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "begin",
+    "partOfSpeech": "v",
+    "chineseMeaning": "開始",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "below",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…下面",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bench",
+    "partOfSpeech": "n",
+    "chineseMeaning": "長凳  長椅",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "black",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "黑色的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blind",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "瞎的  盲的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "block",
+    "partOfSpeech": "n",
+    "chineseMeaning": "街道",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "block",
+    "partOfSpeech": "v",
+    "chineseMeaning": "阻塞",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bored",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "感到無聊的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bread",
+    "partOfSpeech": "n",
+    "chineseMeaning": "麵包",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "break",
+    "partOfSpeech": "v",
+    "chineseMeaning": "弄壞了",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bring",
+    "partOfSpeech": "v",
+    "chineseMeaning": "帶來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "brown",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "褐色的 棕色的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "brush",
+    "partOfSpeech": "n",
+    "chineseMeaning": "刷子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "build",
+    "partOfSpeech": "v",
+    "chineseMeaning": "建造 建立 蓋(房子)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "candy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "糖果",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "carry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "運載 帶著",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "catch",
+    "partOfSpeech": "v",
+    "chineseMeaning": "抓住",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chair",
+    "partOfSpeech": "n",
+    "chineseMeaning": "椅子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chalk",
+    "partOfSpeech": "n",
+    "chineseMeaning": "粉筆",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cheap",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "便宜的  價廉的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cheat",
+    "partOfSpeech": "v",
+    "chineseMeaning": "欺詐",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "check",
+    "partOfSpeech": "v",
+    "chineseMeaning": "檢查 檢驗",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cheer",
+    "partOfSpeech": "v",
+    "chineseMeaning": "鼓舞 歡呼",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chess",
+    "partOfSpeech": "n",
+    "chineseMeaning": "棋",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "child",
+    "partOfSpeech": "n",
+    "chineseMeaning": "孩子(單數 )",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "China",
+    "partOfSpeech": "n",
+    "chineseMeaning": "中國",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "class",
+    "partOfSpeech": "n",
+    "chineseMeaning": "班級 階級 等級",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clean",
+    "partOfSpeech": "v",
+    "chineseMeaning": "清洗",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clear",
+    "partOfSpeech": "v",
+    "chineseMeaning": "清除",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clerk",
+    "partOfSpeech": "n",
+    "chineseMeaning": "店員  職員",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "climb",
+    "partOfSpeech": "v",
+    "chineseMeaning": "攀登 攀爬",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clock",
+    "partOfSpeech": "n",
+    "chineseMeaning": "時鐘",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "close",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "接近的 親密的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "close",
+    "partOfSpeech": "v",
+    "chineseMeaning": "關起來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "color",
+    "partOfSpeech": "n",
+    "chineseMeaning": "顏色 彩色",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "color",
+    "partOfSpeech": "v",
+    "chineseMeaning": "塗上顏色",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "comic",
+    "partOfSpeech": "n",
+    "chineseMeaning": "漫畫",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "comic",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "可笑的 喜劇的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "couch",
+    "partOfSpeech": "n",
+    "chineseMeaning": "長沙發",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "count",
+    "partOfSpeech": "v",
+    "chineseMeaning": "計算",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cover",
+    "partOfSpeech": "v",
+    "chineseMeaning": "覆蓋",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "crazy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "瘋狂的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cross",
+    "partOfSpeech": "v",
+    "chineseMeaning": "過(河.街)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cross",
+    "partOfSpeech": "n",
+    "chineseMeaning": "十字架",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "daddy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "爸爸(口語)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dance",
+    "partOfSpeech": "n",
+    "chineseMeaning": "舞蹈",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dirty",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "骯髒的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dozen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一打 十二個",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dream",
+    "partOfSpeech": "n",
+    "chineseMeaning": "夢想 夢",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dream",
+    "partOfSpeech": "v",
+    "chineseMeaning": "作夢",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dress",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女裝  連衣裙",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drink",
+    "partOfSpeech": "n",
+    "chineseMeaning": "飲料",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drink",
+    "partOfSpeech": "v",
+    "chineseMeaning": "喝",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drive",
+    "partOfSpeech": "v",
+    "chineseMeaning": "駕駛",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "early",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "早的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "earth",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地球",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eight",
+    "partOfSpeech": "num",
+    "chineseMeaning": "八",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "enjoy",
+    "partOfSpeech": "v",
+    "chineseMeaning": "享受  喜愛",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "enter",
+    "partOfSpeech": "v",
+    "chineseMeaning": "進入",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "every",
+    "partOfSpeech": "det",
+    "chineseMeaning": "每一個",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "false",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "假的 錯誤的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fever",
+    "partOfSpeech": "n",
+    "chineseMeaning": "發燒  發熱",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fifth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第五的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fifty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "五十",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fight",
+    "partOfSpeech": "v",
+    "chineseMeaning": "打架 奮鬥 戰鬥",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "first",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "首先",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "floor",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地板",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "flute",
+    "partOfSpeech": "n",
+    "chineseMeaning": "長笛",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "forty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "四十",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fresh",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "新鮮的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "front",
+    "partOfSpeech": "n",
+    "chineseMeaning": "前面 正面 前線",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fruit",
+    "partOfSpeech": "n",
+    "chineseMeaning": "水果 果實",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "funny",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "滑稽可笑的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ghost",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鬼 幽靈",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "giant",
+    "partOfSpeech": "n",
+    "chineseMeaning": "巨人",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "glass",
+    "partOfSpeech": "n",
+    "chineseMeaning": "玻璃杯",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "glove",
+    "partOfSpeech": "n",
+    "chineseMeaning": "手套",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "goose",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鵝",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grade",
+    "partOfSpeech": "n",
+    "chineseMeaning": "等級  級別  階段",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grape",
+    "partOfSpeech": "n",
+    "chineseMeaning": "葡萄",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grass",
+    "partOfSpeech": "n",
+    "chineseMeaning": "青草 牧草",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "great",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "偉大的 巨大的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "green",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "綠色的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "group",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小組",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "guava",
+    "partOfSpeech": "n",
+    "chineseMeaning": "番石榴",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "guess",
+    "partOfSpeech": "v",
+    "chineseMeaning": "猜測",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "habit",
+    "partOfSpeech": "n",
+    "chineseMeaning": "習慣",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "happy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "愉快的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "heart",
+    "partOfSpeech": "n",
+    "chineseMeaning": "心臟",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "heavy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "重的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hello",
+    "partOfSpeech": "inter",
+    "chineseMeaning": "你好",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hippo",
+    "partOfSpeech": "n",
+    "chineseMeaning": "河馬",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hobby",
+    "partOfSpeech": "n",
+    "chineseMeaning": "愛好",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "honey",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蜂蜜",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "horse",
+    "partOfSpeech": "n",
+    "chineseMeaning": "馬",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hotel",
+    "partOfSpeech": "n",
+    "chineseMeaning": "旅館  飯店",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "house",
+    "partOfSpeech": "n",
+    "chineseMeaning": "房子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hurry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "急忙  倉促  忙亂",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "jeans",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牛仔褲",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "juice",
+    "partOfSpeech": "n",
+    "chineseMeaning": "果汁",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "knife",
+    "partOfSpeech": "n",
+    "chineseMeaning": "刀子 小刀 菜刀",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "knock",
+    "partOfSpeech": "v",
+    "chineseMeaning": "敲  擊  打",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "koala",
+    "partOfSpeech": "n",
+    "chineseMeaning": "無尾熊",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "large",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "大的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "later",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "較晚",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "laugh",
+    "partOfSpeech": "v",
+    "chineseMeaning": "笑 嘲笑",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "learn",
+    "partOfSpeech": "v",
+    "chineseMeaning": "學習",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "least",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "最小的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "leave",
+    "partOfSpeech": "v",
+    "chineseMeaning": "離開",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lemon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "檸檬",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "light",
+    "partOfSpeech": "n",
+    "chineseMeaning": "燈 光線",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "light",
+    "partOfSpeech": "v",
+    "chineseMeaning": "點燃",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "light",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "輕的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lucky",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "幸運的 好運的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lunch",
+    "partOfSpeech": "n",
+    "chineseMeaning": "午餐",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "madam",
+    "partOfSpeech": "n",
+    "chineseMeaning": "夫人",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "magic",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有魔力的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "march",
+    "partOfSpeech": "n",
+    "chineseMeaning": "行進 進行曲",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "maybe",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "可能",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "media",
+    "partOfSpeech": "n",
+    "chineseMeaning": "媒體(複數)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "money",
+    "partOfSpeech": "n",
+    "chineseMeaning": "金錢",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "month",
+    "partOfSpeech": "n",
+    "chineseMeaning": "月",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mouse",
+    "partOfSpeech": "n",
+    "chineseMeaning": "老鼠 滑鼠",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mouth",
+    "partOfSpeech": "n",
+    "chineseMeaning": "嘴巴",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "movie",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電影",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "music",
+    "partOfSpeech": "n",
+    "chineseMeaning": "音樂",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "never",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "從未",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "night",
+    "partOfSpeech": "n",
+    "chineseMeaning": "夜",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ninth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第九的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "noise",
+    "partOfSpeech": "n",
+    "chineseMeaning": "噪聲",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "north",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "北的 北方的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nurse",
+    "partOfSpeech": "n",
+    "chineseMeaning": "護士",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "often",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "經常",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "order",
+    "partOfSpeech": "n",
+    "chineseMeaning": "順序 次序 命令",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "other",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "其他的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "paint",
+    "partOfSpeech": "v",
+    "chineseMeaning": "塗上顏色 油漆",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pants",
+    "partOfSpeech": "n",
+    "chineseMeaning": "褲子 寬鬆的長褲",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "paper",
+    "partOfSpeech": "n",
+    "chineseMeaning": "紙張 報告",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "party",
+    "partOfSpeech": "n",
+    "chineseMeaning": "派對",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "paste",
+    "partOfSpeech": "n",
+    "chineseMeaning": "漿糊 麵糰 糊狀物",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "peach",
+    "partOfSpeech": "n",
+    "chineseMeaning": "桃子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "phone",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電話",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "photo",
+    "partOfSpeech": "n",
+    "chineseMeaning": "相片",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "piano",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鋼琴",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "piece",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一個 一張 一片 一塊",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pizza",
+    "partOfSpeech": "n",
+    "chineseMeaning": "比薩餅 義大利肉餡餅",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "place",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地方",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "plane",
+    "partOfSpeech": "n",
+    "chineseMeaning": "飛機",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "plant",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工廠 植物",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "plant",
+    "partOfSpeech": "v",
+    "chineseMeaning": "栽種",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "plate",
+    "partOfSpeech": "n",
+    "chineseMeaning": "盤子  盆  碟",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "point",
+    "partOfSpeech": "n",
+    "chineseMeaning": "點",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pound",
+    "partOfSpeech": "n",
+    "chineseMeaning": "英鎊",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pound",
+    "partOfSpeech": "v",
+    "chineseMeaning": "重擊 敲打",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "power",
+    "partOfSpeech": "n",
+    "chineseMeaning": "力量",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "price",
+    "partOfSpeech": "n",
+    "chineseMeaning": "價格 價錢",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "prize",
+    "partOfSpeech": "n",
+    "chineseMeaning": "獎賞 獎金 獎品",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "proud",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "驕傲的  有自尊心的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "puppy",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小狗",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "queen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女王",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "quick",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "快的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "quiet",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "安靜的 沈默的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "quite",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "非常地",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "radio",
+    "partOfSpeech": "n",
+    "chineseMeaning": "無線電 收音機",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rainy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "多雨的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "raise",
+    "partOfSpeech": "v",
+    "chineseMeaning": "舉起 抬起",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ready",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "準備好的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "right",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "右邊的 正確的 正當的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "river",
+    "partOfSpeech": "n",
+    "chineseMeaning": "河流",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "robot",
+    "partOfSpeech": "n",
+    "chineseMeaning": "機器人",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "round",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "圓的 圓形的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ruler",
+    "partOfSpeech": "n",
+    "chineseMeaning": "直尺 統治者",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "salad",
+    "partOfSpeech": "n",
+    "chineseMeaning": "沙拉",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seven",
+    "partOfSpeech": "num",
+    "chineseMeaning": "七",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shake",
+    "partOfSpeech": "v",
+    "chineseMeaning": "握手 搖動",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shape",
+    "partOfSpeech": "n",
+    "chineseMeaning": "形狀 樣子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shape",
+    "partOfSpeech": "v",
+    "chineseMeaning": "塑造",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "share",
+    "partOfSpeech": "v",
+    "chineseMeaning": "分擔 分享",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shark",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鯊魚",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sharp",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "鋒利的 尖的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sheep",
+    "partOfSpeech": "n",
+    "chineseMeaning": "羊 綿羊",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shine",
+    "partOfSpeech": "v",
+    "chineseMeaning": "發光 照耀 擦亮(鞋子)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shirt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "襯衫 男式襯衫",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shoes",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鞋子(複數)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "short",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "短的 矮的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shout",
+    "partOfSpeech": "v",
+    "chineseMeaning": "呼喊 喊叫",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sight",
+    "partOfSpeech": "n",
+    "chineseMeaning": "視覺 視力",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "since",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "自…以來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sixth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第六的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sixty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "六十",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "skate",
+    "partOfSpeech": "n",
+    "chineseMeaning": "冰鞋",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "skirt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "裙子 襯裙",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sleep",
+    "partOfSpeech": "v",
+    "chineseMeaning": "睡覺 睡眠",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "slide",
+    "partOfSpeech": "v",
+    "chineseMeaning": "滑動滑行",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "small",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "小的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "smart",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "聰明的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "smell",
+    "partOfSpeech": "v",
+    "chineseMeaning": "聞起來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "smile",
+    "partOfSpeech": "v",
+    "chineseMeaning": "微笑 笑容",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "smoke",
+    "partOfSpeech": "n",
+    "chineseMeaning": "煙",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "snack",
+    "partOfSpeech": "n",
+    "chineseMeaning": "快餐",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "snake",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蛇",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "snowy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "多雪的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "socks",
+    "partOfSpeech": "n",
+    "chineseMeaning": "襪子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sorry",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "難過的 遺憾的 抱歉的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sound",
+    "partOfSpeech": "v",
+    "chineseMeaning": "聽起來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sound",
+    "partOfSpeech": "n",
+    "chineseMeaning": "聲音",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "south",
+    "partOfSpeech": "n",
+    "chineseMeaning": "南方",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "space",
+    "partOfSpeech": "n",
+    "chineseMeaning": "空間",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "speak",
+    "partOfSpeech": "v",
+    "chineseMeaning": "說話 講話",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spell",
+    "partOfSpeech": "v",
+    "chineseMeaning": "拼寫",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spend",
+    "partOfSpeech": "v",
+    "chineseMeaning": "花(錢) 花費 (+ving)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spoon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "匙子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stamp",
+    "partOfSpeech": "v",
+    "chineseMeaning": "郵票",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stand",
+    "partOfSpeech": "v",
+    "chineseMeaning": "站立 站著",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "start",
+    "partOfSpeech": "v",
+    "chineseMeaning": "開始",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "steak",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牛排",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "still",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "仍然 靜止的 更",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "store",
+    "partOfSpeech": "v",
+    "chineseMeaning": "貯存",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "store",
+    "partOfSpeech": "n",
+    "chineseMeaning": "店舖 商店",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "story",
+    "partOfSpeech": "n",
+    "chineseMeaning": "故事",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "straw",
+    "partOfSpeech": "n",
+    "chineseMeaning": "稻草  麥稈",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "study",
+    "partOfSpeech": "n",
+    "chineseMeaning": "學習 研究 調查",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sugar",
+    "partOfSpeech": "n",
+    "chineseMeaning": "糖",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sunny",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "陽光充足的 豔陽高照的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sweet",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "甜的 甜蜜的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "swing",
+    "partOfSpeech": "v",
+    "chineseMeaning": "搖擺  擺動  搖蕩",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "table",
+    "partOfSpeech": "n",
+    "chineseMeaning": "桌子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "taste",
+    "partOfSpeech": "v",
+    "chineseMeaning": "吃起來 嚐起來",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "taste",
+    "partOfSpeech": "n",
+    "chineseMeaning": "味覺 味道",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "teach",
+    "partOfSpeech": "v",
+    "chineseMeaning": "教",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tenth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第十的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thank",
+    "partOfSpeech": "v",
+    "chineseMeaning": "感謝",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "their",
+    "partOfSpeech": "pron_o",
+    "chineseMeaning": "他們的(they所有格)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "there",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "那裡",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "these",
+    "partOfSpeech": "det",
+    "chineseMeaning": "這些",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thick",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "厚的  粗的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thing",
+    "partOfSpeech": "n",
+    "chineseMeaning": "事情",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "think",
+    "partOfSpeech": "v",
+    "chineseMeaning": "認為",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "third",
+    "partOfSpeech": "num",
+    "chineseMeaning": "第三",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "those",
+    "partOfSpeech": "det",
+    "chineseMeaning": "那些",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "three",
+    "partOfSpeech": "num",
+    "chineseMeaning": "三",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "throw",
+    "partOfSpeech": "v",
+    "chineseMeaning": "投擲 丟出",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tiger",
+    "partOfSpeech": "n",
+    "chineseMeaning": "老虎",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tired",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "疲憊的 很累的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "toast",
+    "partOfSpeech": "n",
+    "chineseMeaning": "烤土司 烤麵包片",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "today",
+    "partOfSpeech": "n",
+    "chineseMeaning": "今天",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tooth",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牙齒",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "total",
+    "partOfSpeech": "v",
+    "chineseMeaning": "總數 合計",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "touch",
+    "partOfSpeech": "v",
+    "chineseMeaning": "接觸 碰到 感動",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "towel",
+    "partOfSpeech": "n",
+    "chineseMeaning": "毛巾",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "train",
+    "partOfSpeech": "v",
+    "chineseMeaning": "訓練",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "train",
+    "partOfSpeech": "n",
+    "chineseMeaning": "火車",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "trash",
+    "partOfSpeech": "n",
+    "chineseMeaning": "垃圾",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "treat",
+    "partOfSpeech": "v",
+    "chineseMeaning": "對待  看待 請客 治療",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "trick",
+    "partOfSpeech": "n",
+    "chineseMeaning": "詭計 騙局 謀略 花招",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "truck",
+    "partOfSpeech": "n",
+    "chineseMeaning": "卡車",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "twice",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "兩次 兩回",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "uncle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "伯父 叔叔",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "under",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在...下面",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "until",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "直到…時 到…為止",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "video",
+    "partOfSpeech": "n",
+    "chineseMeaning": "影像",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "visit",
+    "partOfSpeech": "v",
+    "chineseMeaning": "參觀",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "voice",
+    "partOfSpeech": "n",
+    "chineseMeaning": "聲音 嗓子",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "watch",
+    "partOfSpeech": "v",
+    "chineseMeaning": "看",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "water",
+    "partOfSpeech": "v",
+    "chineseMeaning": "澆水",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "whale",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鯨魚",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "where",
+    "partOfSpeech": "wh",
+    "chineseMeaning": "那裡(疑問副詞)",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "which",
+    "partOfSpeech": "wh",
+    "chineseMeaning": "哪個",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "white",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "白色的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "whose",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "誰的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "windy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有風的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "woman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "婦女",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "world",
+    "partOfSpeech": "n",
+    "chineseMeaning": "世界",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "worry",
+    "partOfSpeech": "v",
+    "chineseMeaning": "擔心 發愁",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "write",
+    "partOfSpeech": "v",
+    "chineseMeaning": "寫",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wrong",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "錯誤的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "young",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "年輕的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yours",
+    "partOfSpeech": "pron_N",
+    "chineseMeaning": "你的東西",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yummy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "美味的 好吃的",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "zebra",
+    "partOfSpeech": "n",
+    "chineseMeaning": "斑馬",
+    "letterCount": 5,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "abroad",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "在國外  到國外",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "across",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在….對面 橫越 穿過",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "action",
+    "partOfSpeech": "n",
+    "chineseMeaning": "活動 行動",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "afraid",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "害怕的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "almost",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "幾乎 差不多",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "always",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "總是",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "animal",
+    "partOfSpeech": "n",
+    "chineseMeaning": "動物",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "answer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "回答 答覆",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "anyone",
+    "partOfSpeech": "nom pro",
+    "chineseMeaning": "任何人",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "appear",
+    "partOfSpeech": "v",
+    "chineseMeaning": "出現",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "around",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在...附近",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "arrive",
+    "partOfSpeech": "v",
+    "chineseMeaning": "到達  到來",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "attack",
+    "partOfSpeech": "n",
+    "chineseMeaning": "進攻  襲擊",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "August",
+    "partOfSpeech": "n",
+    "chineseMeaning": "八月",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "autumn",
+    "partOfSpeech": "n",
+    "chineseMeaning": "秋季 秋天",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bakery",
+    "partOfSpeech": "n",
+    "chineseMeaning": "麵包店 烘烤食品",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "banana",
+    "partOfSpeech": "n",
+    "chineseMeaning": "香蕉",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "basket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "籃子",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "become",
+    "partOfSpeech": "v",
+    "chineseMeaning": "成為",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "before",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "在…以前",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "behind",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…的後面",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "belong",
+    "partOfSpeech": "v",
+    "chineseMeaning": "屬於(+to)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "beside",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…旁邊",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "boring",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "乏味的 令人生厭的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "borrow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "借入(+from)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bottle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "瓶子",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bottom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "底部",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bridge",
+    "partOfSpeech": "n",
+    "chineseMeaning": "橋 橋樑",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bright",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "明亮的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "butter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "奶油",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "camera",
+    "partOfSpeech": "n",
+    "chineseMeaning": "照相機",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "candle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蠟燭",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "castle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "城堡",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "center",
+    "partOfSpeech": "n",
+    "chineseMeaning": "中心 中心點",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chance",
+    "partOfSpeech": "n",
+    "chineseMeaning": "運氣 機會",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "change",
+    "partOfSpeech": "n",
+    "chineseMeaning": "改變 變化",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cheese",
+    "partOfSpeech": "n",
+    "chineseMeaning": "乳酪",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "choose",
+    "partOfSpeech": "v",
+    "chineseMeaning": "選擇",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "church",
+    "partOfSpeech": "n",
+    "chineseMeaning": "教堂",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "circle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "圓  圓圈",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cloudy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "多雲的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "coffee",
+    "partOfSpeech": "n",
+    "chineseMeaning": "咖啡",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "common",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "普通的 常見的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cookie",
+    "partOfSpeech": "n",
+    "chineseMeaning": "餅乾",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "corner",
+    "partOfSpeech": "n",
+    "chineseMeaning": "轉角處  街角",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "course",
+    "partOfSpeech": "n",
+    "chineseMeaning": "路線",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cousin",
+    "partOfSpeech": "n",
+    "chineseMeaning": "堂(表)兄弟姐妹",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "decide",
+    "partOfSpeech": "v",
+    "chineseMeaning": "決定",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dinner",
+    "partOfSpeech": "n",
+    "chineseMeaning": "晚餐",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "doctor",
+    "partOfSpeech": "n",
+    "chineseMeaning": "醫生 博士",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dollar",
+    "partOfSpeech": "n",
+    "chineseMeaning": "(美)元",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dragon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "龍",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "drawer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "抽屜",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "driver",
+    "partOfSpeech": "n",
+    "chineseMeaning": "司機",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "during",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在...期間",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Easter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "復活節",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eighth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第八的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eighty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "八十",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "either",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "也(不)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eleven",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十一",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "e-mail",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電子郵件",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "enough",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "足夠的 充足的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "eraser",
+    "partOfSpeech": "n",
+    "chineseMeaning": "橡皮擦",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "except",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "除…之外",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "excuse",
+    "partOfSpeech": "n",
+    "chineseMeaning": "原諒 藉口",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "family",
+    "partOfSpeech": "n",
+    "chineseMeaning": "家庭",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "famous",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "著名的  出名的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "farmer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "農夫",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "father",
+    "partOfSpeech": "n",
+    "chineseMeaning": "父親",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "finger",
+    "partOfSpeech": "n",
+    "chineseMeaning": "手指",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "finish",
+    "partOfSpeech": "v",
+    "chineseMeaning": "結束 完成",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "flower",
+    "partOfSpeech": "n",
+    "chineseMeaning": "花",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "follow",
+    "partOfSpeech": "v",
+    "chineseMeaning": "跟隨 遵守",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "forget",
+    "partOfSpeech": "v",
+    "chineseMeaning": "忘記",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fourth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第四的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Friday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期五",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "friend",
+    "partOfSpeech": "n",
+    "chineseMeaning": "朋友",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "future",
+    "partOfSpeech": "n",
+    "chineseMeaning": "未來  將來",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "garden",
+    "partOfSpeech": "n",
+    "chineseMeaning": "花園 庭院",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ground",
+    "partOfSpeech": "n",
+    "chineseMeaning": "地面",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "guitar",
+    "partOfSpeech": "n",
+    "chineseMeaning": "吉他",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "happen",
+    "partOfSpeech": "v",
+    "chineseMeaning": "(偶然)發生",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "health",
+    "partOfSpeech": "n",
+    "chineseMeaning": "健康",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "honest",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "誠實的  正直的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hungry",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "飢餓的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "insect",
+    "partOfSpeech": "n",
+    "chineseMeaning": "昆蟲",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "inside",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在….裡面",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "invite",
+    "partOfSpeech": "v",
+    "chineseMeaning": "邀請  招待",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "island",
+    "partOfSpeech": "n",
+    "chineseMeaning": "海島",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "itself",
+    "partOfSpeech": "pron_R",
+    "chineseMeaning": "它自己(反身代名詞)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "jacket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "夾克 上衣",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lawyer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "律師",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "leader",
+    "partOfSpeech": "n",
+    "chineseMeaning": "領導",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lesson",
+    "partOfSpeech": "n",
+    "chineseMeaning": "功課 課業",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "letter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "信件 字母",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "listen",
+    "partOfSpeech": "v",
+    "chineseMeaning": "注意聽(+to)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "little",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "一點點(接不可數)",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lonely",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "孤獨的 寂寞的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lovely",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "可愛的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "marker",
+    "partOfSpeech": "n",
+    "chineseMeaning": "標誌 麥克筆",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "market",
+    "partOfSpeech": "n",
+    "chineseMeaning": "市場 市集",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "market",
+    "partOfSpeech": "v",
+    "chineseMeaning": "銷售 行銷 上市",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "matter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "重要",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "medium",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "中等的  中間的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "middle",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "中部的 中間的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "minute",
+    "partOfSpeech": "n",
+    "chineseMeaning": "分鐘",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "modern",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "現代的  近代的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "moment",
+    "partOfSpeech": "n",
+    "chineseMeaning": "瞬間 片刻",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Monday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期一",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "monkey",
+    "partOfSpeech": "n",
+    "chineseMeaning": "猴子",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mother",
+    "partOfSpeech": "n",
+    "chineseMeaning": "母親",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "museum",
+    "partOfSpeech": "n",
+    "chineseMeaning": "博物館",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "myself",
+    "partOfSpeech": "pron_r",
+    "chineseMeaning": "我自己",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nature",
+    "partOfSpeech": "n",
+    "chineseMeaning": "大自然 自然界",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ninety",
+    "partOfSpeech": "num",
+    "chineseMeaning": "九十",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nobody",
+    "partOfSpeech": "nom pro",
+    "chineseMeaning": "沒人",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "noodle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "麵條",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "notice",
+    "partOfSpeech": "v",
+    "chineseMeaning": "通知  告知  注意到",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "number",
+    "partOfSpeech": "n",
+    "chineseMeaning": "數字",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "office",
+    "partOfSpeech": "n",
+    "chineseMeaning": "辦公室",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "orange",
+    "partOfSpeech": "n",
+    "chineseMeaning": "柳橙",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "papaya",
+    "partOfSpeech": "n",
+    "chineseMeaning": "番木瓜 木瓜",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "parent",
+    "partOfSpeech": "n",
+    "chineseMeaning": "父母親之一",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pencil",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鉛筆",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "people",
+    "partOfSpeech": "n",
+    "chineseMeaning": "人們",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "person",
+    "partOfSpeech": "n",
+    "chineseMeaning": "人",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "picnic",
+    "partOfSpeech": "n",
+    "chineseMeaning": "郊遊 野餐",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "planet",
+    "partOfSpeech": "n",
+    "chineseMeaning": "行星",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "player",
+    "partOfSpeech": "n",
+    "chineseMeaning": "遊戲的人 選手",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "please",
+    "partOfSpeech": "v",
+    "chineseMeaning": "取悅 請",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pocket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "口袋",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "police",
+    "partOfSpeech": "n",
+    "chineseMeaning": "警察",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "polite",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有禮貌的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pretty",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "非常地",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "prince",
+    "partOfSpeech": "n",
+    "chineseMeaning": "王子",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "public",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "公共的  大眾的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "purple",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "紫色的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rabbit",
+    "partOfSpeech": "n",
+    "chineseMeaning": "兔子 野兔",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "really",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "真正地",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "repeat",
+    "partOfSpeech": "v",
+    "chineseMeaning": "重複  重做  重說",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "scared",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "受到驚嚇的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "school",
+    "partOfSpeech": "n",
+    "chineseMeaning": "學校",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "screen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "瑩幕  簾子",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "season",
+    "partOfSpeech": "n",
+    "chineseMeaning": "季節",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "second",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "其次 第二的 秒",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seesaw",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蹺蹺板",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seldom",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "不常 很少 難得",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shorts",
+    "partOfSpeech": "n",
+    "chineseMeaning": "短褲",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "simple",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "簡單的 容易的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "singer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "歌手",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sister",
+    "partOfSpeech": "n",
+    "chineseMeaning": "姊妹",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "soccer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "足球",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spider",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蜘蛛",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sports",
+    "partOfSpeech": "n",
+    "chineseMeaning": "運動",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spring",
+    "partOfSpeech": "n",
+    "chineseMeaning": "春天",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "square",
+    "partOfSpeech": "n",
+    "chineseMeaning": "正方形  廣場",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stairs",
+    "partOfSpeech": "n",
+    "chineseMeaning": "臺階",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "street",
+    "partOfSpeech": "n",
+    "chineseMeaning": "街 街道",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "strong",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "強壯的 強而有力的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stupid",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "愚蠢的 笨的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "summer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "夏天",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Sunday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期天",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Taiwan",
+    "partOfSpeech": "n",
+    "chineseMeaning": "臺灣",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "temple",
+    "partOfSpeech": "n",
+    "chineseMeaning": "寺廟 神殿 聖堂",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tennis",
+    "partOfSpeech": "n",
+    "chineseMeaning": "網球",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "theirs",
+    "partOfSpeech": "pron_n",
+    "chineseMeaning": "他們的東西",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thirty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "三十",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "though",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "雖然",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "throat",
+    "partOfSpeech": "n",
+    "chineseMeaning": "咽喉  喉嚨",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ticket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "車票 入場券 門票",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tomato",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蕃茄",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "turkey",
+    "partOfSpeech": "n",
+    "chineseMeaning": "火雞",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "turtle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "烏龜",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "twelve",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十二",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "twenty",
+    "partOfSpeech": "num",
+    "chineseMeaning": "二十",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "useful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有用的 有益的 有幫助的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "violin",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小提琴",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "waiter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "侍者",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wallet",
+    "partOfSpeech": "n",
+    "chineseMeaning": "錢包",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "window",
+    "partOfSpeech": "n",
+    "chineseMeaning": "窗口",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "winter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "冬天",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "worker",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工人",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "writer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "作家",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yellow",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "黃色的",
+    "letterCount": 6,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "actress",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女演員",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "airport",
+    "partOfSpeech": "n",
+    "chineseMeaning": "機場",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "already",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "已經",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "America",
+    "partOfSpeech": "n",
+    "chineseMeaning": "美國",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "another",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "另一個",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "anybody",
+    "partOfSpeech": "nom pro",
+    "chineseMeaning": "任何人",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "balcony",
+    "partOfSpeech": "n",
+    "chineseMeaning": "陽臺",
+    "letterCount": 7,
+    "exampleSentence": "You can see the sea from our balcony. 從我們的陽臺，你可以看到大海。"
+  },
+  {
+    "englishWord": "because",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "因為",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bedroom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "臥室",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "believe",
+    "partOfSpeech": "v",
+    "chineseMeaning": "相信",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "between",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在...之間",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bicycle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "腳踏車",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blanket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "毛毯  毯子",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "brother",
+    "partOfSpeech": "n",
+    "chineseMeaning": "兄弟",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "careful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "仔細的 小心的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chicken",
+    "partOfSpeech": "n",
+    "chineseMeaning": "小雞 雞肉  膽小鬼",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Chinese",
+    "partOfSpeech": "n",
+    "chineseMeaning": "中文",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "clothes",
+    "partOfSpeech": "n",
+    "chineseMeaning": "衣服  服裝",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "collect",
+    "partOfSpeech": "v",
+    "chineseMeaning": "收集",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "correct",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "正確的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "correct",
+    "partOfSpeech": "v",
+    "chineseMeaning": "改正",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "country",
+    "partOfSpeech": "n",
+    "chineseMeaning": "國家",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dentist",
+    "partOfSpeech": "n",
+    "chineseMeaning": "牙科醫生",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "English",
+    "partOfSpeech": "n",
+    "chineseMeaning": "英語",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "evening",
+    "partOfSpeech": "n",
+    "chineseMeaning": "傍晚 晚上",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "example",
+    "partOfSpeech": "n",
+    "chineseMeaning": "例子",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "excited",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "感到興奮的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "factory",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工廠",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fifteen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十五",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "finally",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "最後 終於",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "foreign",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "外國的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "frisbee",
+    "partOfSpeech": "n",
+    "chineseMeaning": "飛碟 飛盤",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "garbage",
+    "partOfSpeech": "n",
+    "chineseMeaning": "垃圾",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "glasses",
+    "partOfSpeech": "n",
+    "chineseMeaning": "玻璃 眼鏡",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grandma",
+    "partOfSpeech": "n",
+    "chineseMeaning": "奶奶",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grandpa",
+    "partOfSpeech": "n",
+    "chineseMeaning": "爺爺",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "healthy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "健康的  健全的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "helpful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有幫助的  有益的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "herself",
+    "partOfSpeech": "pron_r",
+    "chineseMeaning": "她自己",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "himself",
+    "partOfSpeech": "pron_R",
+    "chineseMeaning": "他自己",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "history",
+    "partOfSpeech": "n",
+    "chineseMeaning": "歷史",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "holiday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "節日 假日",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hot dog",
+    "partOfSpeech": "n",
+    "chineseMeaning": "熱狗",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "however",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "然而  但是",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hundred",
+    "partOfSpeech": "num",
+    "chineseMeaning": "一百",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "husband",
+    "partOfSpeech": "n",
+    "chineseMeaning": "丈夫",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "January",
+    "partOfSpeech": "n",
+    "chineseMeaning": "一月",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kitchen",
+    "partOfSpeech": "n",
+    "chineseMeaning": "廚房",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "lantern",
+    "partOfSpeech": "n",
+    "chineseMeaning": "燈籠",
+    "letterCount": 7,
+    "exampleSentence": "I have no laterns.我沒有燈籠。"
+  },
+  {
+    "englishWord": "lettuce",
+    "partOfSpeech": "n",
+    "chineseMeaning": "萵苣",
+    "letterCount": 7,
+    "exampleSentence": "Go and buy a couple of lettuces. 去買兩棵萵苣吧。"
+  },
+  {
+    "englishWord": "library",
+    "partOfSpeech": "n",
+    "chineseMeaning": "圖書館",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "machine",
+    "partOfSpeech": "n",
+    "chineseMeaning": "機器",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mailman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "郵差",
+    "letterCount": 7,
+    "exampleSentence": "The mailman delivers letters and parcels every morning. 郵差每天早晨遞送信件和包裹。"
+  },
+  {
+    "englishWord": "married",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "已婚的 有配偶的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "meeting",
+    "partOfSpeech": "n",
+    "chineseMeaning": "會議  集會",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "million",
+    "partOfSpeech": "num",
+    "chineseMeaning": "百萬",
+    "letterCount": 7,
+    "exampleSentence": "Mdonald's has millions of hamburgers. 麥當勞有許多許多漢堡。"
+  },
+  {
+    "englishWord": "mistake",
+    "partOfSpeech": "n",
+    "chineseMeaning": "錯誤 過失",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "morning",
+    "partOfSpeech": "n",
+    "chineseMeaning": "早晨",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nothing",
+    "partOfSpeech": "nom pro",
+    "chineseMeaning": "沒什麼",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "o'clock",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "點鐘",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "October",
+    "partOfSpeech": "n",
+    "chineseMeaning": "十月",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "officer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "軍官",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "outside",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "在…的外面",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "package",
+    "partOfSpeech": "n",
+    "chineseMeaning": "包裹",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "perhaps",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "大概 或許 可能",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "picture",
+    "partOfSpeech": "n",
+    "chineseMeaning": "圖片 照片 圖畫",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "popcorn",
+    "partOfSpeech": "n",
+    "chineseMeaning": "爆米花",
+    "letterCount": 7,
+    "exampleSentence": "I want to order two bags of popcorn."
+  },
+  {
+    "englishWord": "popular",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "受歡迎的  大眾的  流行的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "prepare",
+    "partOfSpeech": "v",
+    "chineseMeaning": "準備",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "present",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "現在的 出席的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "problem",
+    "partOfSpeech": "n",
+    "chineseMeaning": "問題",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "program",
+    "partOfSpeech": "n",
+    "chineseMeaning": "程式 節目",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pumpkin",
+    "partOfSpeech": "n",
+    "chineseMeaning": "南瓜",
+    "letterCount": 7,
+    "exampleSentence": "I like  pumpkin pies 我愛吃南瓜餡餅 。"
+  },
+  {
+    "englishWord": "quarter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "四分之一",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "railway",
+    "partOfSpeech": "n",
+    "chineseMeaning": "鐵路",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "rainbow",
+    "partOfSpeech": "n",
+    "chineseMeaning": "彩虹",
+    "letterCount": 7,
+    "exampleSentence": "After it rained, there was a rainbow appearing in the sky. 雨後，天空出現了一道彩虹。"
+  },
+  {
+    "englishWord": "science",
+    "partOfSpeech": "n",
+    "chineseMeaning": "科學  自然科學",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "scooter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "機車 滑板車",
+    "letterCount": 7,
+    "exampleSentence": "A scooter is a kind of motorcycle."
+  },
+  {
+    "englishWord": "serious",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "嚴重的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seventy",
+    "partOfSpeech": "num",
+    "chineseMeaning": "七十",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "several",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "幾個的 數個的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sixteen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十六",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "snowman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "雪人",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "soldier",
+    "partOfSpeech": "n",
+    "chineseMeaning": "士兵",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "someone",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "某人",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "special",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "特別的 特殊的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "station",
+    "partOfSpeech": "n",
+    "chineseMeaning": "車站",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stomach",
+    "partOfSpeech": "n",
+    "chineseMeaning": "胃",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "strange",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "奇怪的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "student",
+    "partOfSpeech": "n",
+    "chineseMeaning": "學生",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "subject",
+    "partOfSpeech": "n",
+    "chineseMeaning": "科目 主題",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sweater",
+    "partOfSpeech": "n",
+    "chineseMeaning": "毛線衣",
+    "letterCount": 7,
+    "exampleSentence": "She wore a sweater and jeans. 她穿著毛衣及牛仔褲。"
+  },
+  {
+    "englishWord": "teacher",
+    "partOfSpeech": "n",
+    "chineseMeaning": "老師",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "theater",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電影院",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thirsty",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "口渴的",
+    "letterCount": 7,
+    "exampleSentence": "Salty food makes you thirsty. 吃咸的食品會令你口渴。"
+  },
+  {
+    "englishWord": "tonight",
+    "partOfSpeech": "n",
+    "chineseMeaning": "今晚",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "traffic",
+    "partOfSpeech": "n",
+    "chineseMeaning": "交通",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "trouble",
+    "partOfSpeech": "n",
+    "chineseMeaning": "麻煩 困擾的事",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "T-shirt",
+    "partOfSpeech": "n",
+    "chineseMeaning": "T恤杉",
+    "letterCount": 7,
+    "exampleSentence": "A T-shirt has short sleeves and no collar. 短袖運動衫沒有領子。"
+  },
+  {
+    "englishWord": "Tuesday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期二",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "typhoon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "颱風",
+    "letterCount": 7,
+    "exampleSentence": "A typhoon in 1954 sank a ferry, drowning 1,218 people. 一九五四年的一次颱風刮沉了一艘渡輪，淹死一千二百十八人。"
+  },
+  {
+    "englishWord": "unhappy",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "不快樂的",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "uniform",
+    "partOfSpeech": "n",
+    "chineseMeaning": "制服",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "usually",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "通常",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "weather",
+    "partOfSpeech": "n",
+    "chineseMeaning": "天氣",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "weekend",
+    "partOfSpeech": "n",
+    "chineseMeaning": "週末",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "welcome",
+    "partOfSpeech": "v",
+    "chineseMeaning": "歡迎",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "whether",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "是否",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "without",
+    "partOfSpeech": "prep",
+    "chineseMeaning": "沒有",
+    "letterCount": 7,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "airplane",
+    "partOfSpeech": "n",
+    "chineseMeaning": "飛機",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "although",
+    "partOfSpeech": "conj",
+    "chineseMeaning": "雖然",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "American",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "美國人",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "anything",
+    "partOfSpeech": "nom pro",
+    "chineseMeaning": "任何事情",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "barbecue",
+    "partOfSpeech": "n",
+    "chineseMeaning": "烤肉",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "baseball",
+    "partOfSpeech": "n",
+    "chineseMeaning": "棒球",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bathroom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "浴室",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "birthday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "生日",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "business",
+    "partOfSpeech": "n",
+    "chineseMeaning": "生意 交易 商業",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "computer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電腦",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "daughter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女兒",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "December",
+    "partOfSpeech": "n",
+    "chineseMeaning": "十二月",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dumpling",
+    "partOfSpeech": "n",
+    "chineseMeaning": "餃子",
+    "letterCount": 8,
+    "exampleSentence": "Do the dumplings taste good?"
+  },
+  {
+    "englishWord": "eighteen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十八",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "elephant",
+    "partOfSpeech": "n",
+    "chineseMeaning": "大象",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "engineer",
+    "partOfSpeech": "n",
+    "chineseMeaning": "工程師  技師",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "envelope",
+    "partOfSpeech": "n",
+    "chineseMeaning": "信封",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "everyone",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "每人",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "exciting",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "令人興奮的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "exercise",
+    "partOfSpeech": "v",
+    "chineseMeaning": "鍛鍊 練習 運動",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "favorite",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "特別喜愛的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "February",
+    "partOfSpeech": "n",
+    "chineseMeaning": "二月",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "festival",
+    "partOfSpeech": "n",
+    "chineseMeaning": "節日  喜慶日",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "friendly",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "友好的  親切的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "good-bye",
+    "partOfSpeech": "inter",
+    "chineseMeaning": "再見",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "handsome",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "英俊的 健美的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "headache",
+    "partOfSpeech": "n",
+    "chineseMeaning": "頭痛",
+    "letterCount": 8,
+    "exampleSentence": "She took an aspirin to relieve her headache. 她吃了一片阿斯匹靈以解頭痛。"
+  },
+  {
+    "englishWord": "homework",
+    "partOfSpeech": "n",
+    "chineseMeaning": "家庭作業",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "hospital",
+    "partOfSpeech": "n",
+    "chineseMeaning": "醫院",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "interest",
+    "partOfSpeech": "n",
+    "chineseMeaning": "興趣 利益 利息",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Internet",
+    "partOfSpeech": "n",
+    "chineseMeaning": "網際網路",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kangaroo",
+    "partOfSpeech": "n",
+    "chineseMeaning": "袋鼠",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "kilogram",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公斤",
+    "letterCount": 8,
+    "exampleSentence": "The largest brain possessed by any dinosaur weighed about a kilogram. 最大的恐龍腦子大約有一公斤重。"
+  },
+  {
+    "englishWord": "language",
+    "partOfSpeech": "n",
+    "chineseMeaning": "語言",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "medicine",
+    "partOfSpeech": "n",
+    "chineseMeaning": "藥 醫學",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "mountain",
+    "partOfSpeech": "n",
+    "chineseMeaning": "山",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "national",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "國家的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "neighbor",
+    "partOfSpeech": "n",
+    "chineseMeaning": "街坊鄰居",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "nineteen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十九",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "notebook",
+    "partOfSpeech": "n",
+    "chineseMeaning": "筆記本",
+    "letterCount": 8,
+    "exampleSentence": "I've jotted down all the new words I've learned in a notebook. 我把我學的新詞全都記在一個筆記本上了。"
+  },
+  {
+    "englishWord": "November",
+    "partOfSpeech": "n",
+    "chineseMeaning": "十一月",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "pleasure",
+    "partOfSpeech": "n",
+    "chineseMeaning": "愉快  高興  滿足",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "possible",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有可能的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "postcard",
+    "partOfSpeech": "n",
+    "chineseMeaning": "明信片",
+    "letterCount": 8,
+    "exampleSentence": "He sent me a postcard from the United Nations. 他從聯合國給我寄來一張明信片。"
+  },
+  {
+    "englishWord": "practice",
+    "partOfSpeech": "n",
+    "chineseMeaning": "練習 學習",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "princess",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公主 王妃",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "question",
+    "partOfSpeech": "n",
+    "chineseMeaning": "問題",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "question",
+    "partOfSpeech": "v",
+    "chineseMeaning": "詢問 審問",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "recorder",
+    "partOfSpeech": "n",
+    "chineseMeaning": "記錄器",
+    "letterCount": 8,
+    "exampleSentence": "He switched off the recorder. 他關掉了錄音機。"
+  },
+  {
+    "englishWord": "remember",
+    "partOfSpeech": "v",
+    "chineseMeaning": "記得 想起 回憶起",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "reporter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "記者 報告人",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "restroom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "休息室",
+    "letterCount": 8,
+    "exampleSentence": "Excuse me. Is there a restroom nearby? 請問廁所在哪？"
+  },
+  {
+    "englishWord": "salesman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "(男)推銷員  業務員",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sandwich",
+    "partOfSpeech": "n",
+    "chineseMeaning": "三明治",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Saturday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期六",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sentence",
+    "partOfSpeech": "n",
+    "chineseMeaning": "句子",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shoulder",
+    "partOfSpeech": "n",
+    "chineseMeaning": "肩膀",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sidewalk",
+    "partOfSpeech": "n",
+    "chineseMeaning": "人行道",
+    "letterCount": 8,
+    "exampleSentence": "She slipped and almost fell on the icy sidewalk. 她滑了一下，幾乎跌倒在結冰的人行道上。"
+  },
+  {
+    "englishWord": "somebody",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "某人",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "straight",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "直接   挺直地",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "stranger",
+    "partOfSpeech": "n",
+    "chineseMeaning": "陌生人",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "surprise",
+    "partOfSpeech": "v",
+    "chineseMeaning": "使吃驚 驚奇 詫異",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "teenager",
+    "partOfSpeech": "n",
+    "chineseMeaning": "青少年",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "terrible",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "可怕的  嚇人的",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thirteen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十三",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thousand",
+    "partOfSpeech": "num",
+    "chineseMeaning": "一千",
+    "letterCount": 8,
+    "exampleSentence": "I've warned him a thousand times. 我警告過他無數次了。"
+  },
+  {
+    "englishWord": "Thursday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期四",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "together",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "一起",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "tomorrow",
+    "partOfSpeech": "n",
+    "chineseMeaning": "明天",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "umbrella",
+    "partOfSpeech": "n",
+    "chineseMeaning": "傘",
+    "letterCount": 8,
+    "exampleSentence": "She sat under a striped umbrella. 她坐在一把條紋傘下。"
+  },
+  {
+    "englishWord": "vacation",
+    "partOfSpeech": "n",
+    "chineseMeaning": "休假  假期",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "waitress",
+    "partOfSpeech": "n",
+    "chineseMeaning": "女服務員",
+    "letterCount": 8,
+    "exampleSentence": "Waitress： Take your time. I'll be with you in a moment. 女服務生: 稍待，馬上過來。"
+  },
+  {
+    "englishWord": "workbook",
+    "partOfSpeech": "n",
+    "chineseMeaning": "作業簿",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yourself",
+    "partOfSpeech": "pron_self",
+    "chineseMeaning": "你自己",
+    "letterCount": 8,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "afternoon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "下午",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "apartment",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公寓",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "badminton",
+    "partOfSpeech": "n",
+    "chineseMeaning": "羽毛球",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "beautiful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "美麗的 漂亮的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "bookstore",
+    "partOfSpeech": "n",
+    "chineseMeaning": "書店",
+    "letterCount": 9,
+    "exampleSentence": "He is the owner of the bookstore"
+  },
+  {
+    "englishWord": "breakfast",
+    "partOfSpeech": "n",
+    "chineseMeaning": "早餐 早飯",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "butterfly",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蝴蝶",
+    "letterCount": 9,
+    "exampleSentence": "A butterfly has large wings. 蝴蝶有很大的翅膀。"
+  },
+  {
+    "englishWord": "celebrate",
+    "partOfSpeech": "v",
+    "chineseMeaning": "慶祝",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "cellphone",
+    "partOfSpeech": "n",
+    "chineseMeaning": "手機",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "chocolate",
+    "partOfSpeech": "n",
+    "chineseMeaning": "巧克力",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Christmas",
+    "partOfSpeech": "n",
+    "chineseMeaning": "聖誕節",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "classmate",
+    "partOfSpeech": "n",
+    "chineseMeaning": "同學",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "classroom",
+    "partOfSpeech": "n",
+    "chineseMeaning": "教室",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dangerous",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "危險的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "delicious",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "美味可口的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "different",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "不同的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "difficult",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "困難的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "everybody",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "每個人",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "excellent",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "出色的  傑出的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "expensive",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "高價的  昂貴的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "fisherman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "漁人 漁夫 漁民",
+    "letterCount": 9,
+    "exampleSentence": "A fisherman  catches fish as a sport or as a job 釣魚者捕魚當運動或職業。"
+  },
+  {
+    "englishWord": "foreigner",
+    "partOfSpeech": "n",
+    "chineseMeaning": "外國人",
+    "letterCount": 9,
+    "exampleSentence": "More than a million foreigners visit the city every year. 每年有一百多萬外國人來訪問該城市。"
+  },
+  {
+    "englishWord": "Halloween",
+    "partOfSpeech": "n",
+    "chineseMeaning": "萬聖節前夕",
+    "letterCount": 9,
+    "exampleSentence": "Halloween is coming up. 萬聖節快到了"
+  },
+  {
+    "englishWord": "hamburger",
+    "partOfSpeech": "n",
+    "chineseMeaning": "漢堡",
+    "letterCount": 9,
+    "exampleSentence": "He has millions of books. 他有許多許多書。"
+  },
+  {
+    "englishWord": "housewife",
+    "partOfSpeech": "n",
+    "chineseMeaning": "主婦",
+    "letterCount": 9,
+    "exampleSentence": "Mrs. Green is a thrifty housewife. 格林太太是個勤儉持家的主婦。"
+  },
+  {
+    "englishWord": "ice cream",
+    "partOfSpeech": "np",
+    "chineseMeaning": "冰淇淋",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "important",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "重要的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "interview",
+    "partOfSpeech": "n",
+    "chineseMeaning": "接見 訪問  採訪面試",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "knowledge",
+    "partOfSpeech": "n",
+    "chineseMeaning": "知識  學識  學問",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "newspaper",
+    "partOfSpeech": "n",
+    "chineseMeaning": "報紙 報",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "ourselves",
+    "partOfSpeech": "pron_r",
+    "chineseMeaning": "我們自己",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "secretary",
+    "partOfSpeech": "n",
+    "chineseMeaning": "祕書",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "September",
+    "partOfSpeech": "n",
+    "chineseMeaning": "九月",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "seventeen",
+    "partOfSpeech": "num",
+    "chineseMeaning": "十七",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "something",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "某事",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "sometimes",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "有時候",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "somewhere",
+    "partOfSpeech": "adv",
+    "chineseMeaning": "某處",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "spaghetti",
+    "partOfSpeech": "n",
+    "chineseMeaning": "義大利麵條",
+    "letterCount": 9,
+    "exampleSentence": "You can see the spaghetti on the  table. 在我們的桌上，你可以看到義大利麵。"
+  },
+  {
+    "englishWord": "surprised",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "感到驚訝的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "telephone",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電話",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "thirtieth",
+    "partOfSpeech": "num_th",
+    "chineseMeaning": "第三十的",
+    "letterCount": 9,
+    "exampleSentence": "A day is about one thirtieth of a month. 一天大約是一個月的三十分之一。"
+  },
+  {
+    "englishWord": "vegetable",
+    "partOfSpeech": "n",
+    "chineseMeaning": "蔬菜 青菜",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "Wednesday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "星期三",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "wonderful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "極好的  精彩的",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "yesterday",
+    "partOfSpeech": "n",
+    "chineseMeaning": "昨天",
+    "letterCount": 9,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "basketball",
+    "partOfSpeech": "n",
+    "chineseMeaning": "籃球",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "blackboard",
+    "partOfSpeech": "n",
+    "chineseMeaning": "黑板",
+    "letterCount": 10,
+    "exampleSentence": "The teacher was erasing the letters on the blackboard. 老師在擦黑板。"
+  },
+  {
+    "englishWord": "centimeter",
+    "partOfSpeech": "n",
+    "chineseMeaning": "公分",
+    "letterCount": 10,
+    "exampleSentence": "I am 180 centimeters tall."
+  },
+  {
+    "englishWord": "chopsticks",
+    "partOfSpeech": "n",
+    "chineseMeaning": "筷子",
+    "letterCount": 10,
+    "exampleSentence": "We eat with chopsticks.我們用筷子用餐。"
+  },
+  {
+    "englishWord": "convenient",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "方便的 便利的",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dictionary",
+    "partOfSpeech": "n",
+    "chineseMeaning": "字典  辭典",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dodge ball",
+    "partOfSpeech": "np",
+    "chineseMeaning": "躲避球遊戲",
+    "letterCount": 10,
+    "exampleSentence": "I play dodge ball with my friends after school."
+  },
+  {
+    "englishWord": "everything",
+    "partOfSpeech": "pron",
+    "chineseMeaning": "一切",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "experience",
+    "partOfSpeech": "n",
+    "chineseMeaning": "經驗  體驗",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "interested",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "感興趣的",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "motorcycle",
+    "partOfSpeech": "n",
+    "chineseMeaning": "摩托車",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "playground",
+    "partOfSpeech": "n",
+    "chineseMeaning": "操場",
+    "letterCount": 10,
+    "exampleSentence": "You can find him on the playground, I think. 我想你去操場能找到他。"
+  },
+  {
+    "englishWord": "restaurant",
+    "partOfSpeech": "n",
+    "chineseMeaning": "餐館  飯店",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "shopkeeper",
+    "partOfSpeech": "n",
+    "chineseMeaning": "店主 商店經理",
+    "letterCount": 10,
+    "exampleSentence": "a nation of shopkeepers 店小二民族"
+  },
+  {
+    "englishWord": "strawberry",
+    "partOfSpeech": "n",
+    "chineseMeaning": "草莓",
+    "letterCount": 10,
+    "exampleSentence": "Strawberries are now out of season. 現在不是草莓當令的時節。"
+  },
+  {
+    "englishWord": "successful",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "成功的",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "television",
+    "partOfSpeech": "n",
+    "chineseMeaning": "電視",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "themselves",
+    "partOfSpeech": "pron_R",
+    "chineseMeaning": "他們自己",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "understand",
+    "partOfSpeech": "v",
+    "chineseMeaning": "理解 懂",
+    "letterCount": 10,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "watermelon",
+    "partOfSpeech": "n",
+    "chineseMeaning": "西瓜",
+    "letterCount": 10,
+    "exampleSentence": "A watermelon is a large round fruit with hard green skin.西瓜是圓的，大的且是綠的"
+  },
+  {
+    "englishWord": "yourselves",
+    "partOfSpeech": "pron_R",
+    "chineseMeaning": "你們自己",
+    "letterCount": 10,
+    "exampleSentence": "Help yourselves to sandwiches. 請你們自己隨意拿三文治吃。"
+  },
+  {
+    "englishWord": "baby sitter",
+    "partOfSpeech": "np",
+    "chineseMeaning": "保姆",
+    "letterCount": 11,
+    "exampleSentence": "I am looking for a job of baby-sitter."
+  },
+  {
+    "englishWord": "businessman",
+    "partOfSpeech": "n",
+    "chineseMeaning": "商人",
+    "letterCount": 11,
+    "exampleSentence": "Businessman is a man who works at a fairly high level in a company 商人"
+  },
+  {
+    "englishWord": "comfortable",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "舒適的",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "dining room",
+    "partOfSpeech": "np",
+    "chineseMeaning": "餐廳",
+    "letterCount": 11,
+    "exampleSentence": "A dining room is a room where you eat meals in a house. 飯廳是吃飯的地方。"
+  },
+  {
+    "englishWord": "grandfather",
+    "partOfSpeech": "n",
+    "chineseMeaning": "祖父",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "grandmother",
+    "partOfSpeech": "n",
+    "chineseMeaning": "祖母",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "interesting",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "有趣的",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "living room",
+    "partOfSpeech": "np",
+    "chineseMeaning": "客廳",
+    "letterCount": 11,
+    "exampleSentence": "My father is in the living room. 我的父親在客廳裡。"
+  },
+  {
+    "englishWord": "mathematics",
+    "partOfSpeech": "n",
+    "chineseMeaning": "數學",
+    "letterCount": 11,
+    "exampleSentence": "Mathematics is her favorite subject. 數學是她喜歡的科目。"
+  },
+  {
+    "englishWord": "post office",
+    "partOfSpeech": "np",
+    "chineseMeaning": "郵局",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "supermarket",
+    "partOfSpeech": "n",
+    "chineseMeaning": "超級市場",
+    "letterCount": 11,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "French fries",
+    "partOfSpeech": "np",
+    "chineseMeaning": "炸薯條(複數)",
+    "letterCount": 12,
+    "exampleSentence": "Wait a minute! I'd also love an order of french fries. 等一下！我也想要一客炸薯條。"
+  },
+  {
+    "englishWord": "hard-working",
+    "partOfSpeech": "adj",
+    "chineseMeaning": "努力工作的 勤勉的",
+    "letterCount": 12,
+    "exampleSentence": "He is a hard working young man"
+  },
+  {
+    "englishWord": "mail carrier",
+    "partOfSpeech": "n",
+    "chineseMeaning": "郵差",
+    "letterCount": 12,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "refrigerator",
+    "partOfSpeech": "n",
+    "chineseMeaning": "冰箱 冷藏室 冷凍庫",
+    "letterCount": 12,
+    "exampleSentence": "Brody reached into the refrigerator and pulled out a beer. 布羅迪把手伸進冰箱，拿出一罐啤酒。"
+  },
+  {
+    "englishWord": "roller blade",
+    "partOfSpeech": "v",
+    "chineseMeaning": "溜直排輪",
+    "letterCount": 12,
+    "exampleSentence": "He is roller blading on the road.他在馬路上滑直排輪"
+  },
+  {
+    "englishWord": "roller blades",
+    "partOfSpeech": "np",
+    "chineseMeaning": "直排輪溜冰鞋(複數)",
+    "letterCount": 13,
+    "exampleSentence": ""
+  },
+  {
+    "englishWord": "department store",
+    "partOfSpeech": "np",
+    "chineseMeaning": "百貨商店",
+    "letterCount": 16,
+    "exampleSentence": "All of the department stores in Taipei are having sales. 台北市所有的百貨公司都在大減價。"
+  },
+  {
+    "englishWord": "elementary school",
+    "partOfSpeech": "np",
+    "chineseMeaning": "小學",
+    "letterCount": 17,
+    "exampleSentence": "She teaches at an elementary school. 她在一所小學教書。"
+  },
+  {
+    "englishWord": "junior high school",
+    "partOfSpeech": "np",
+    "chineseMeaning": "國中",
+    "letterCount": 18,
+    "exampleSentence": "We are junior high school students. 我們是國中生。"
+  },
+  {
+    "englishWord": "physical education",
+    "partOfSpeech": "np",
+    "chineseMeaning": "體育",
+    "letterCount": 18,
+    "exampleSentence": "sport and physical exercise taught as a school subject 體育教育; 體育課"
+  },
+  {
+    "englishWord": "senior high school",
+    "partOfSpeech": "np",
+    "chineseMeaning": "高中",
+    "letterCount": 18,
+    "exampleSentence": "David is a senior high school student. 大衛是一位高中生。"
+  }
+]

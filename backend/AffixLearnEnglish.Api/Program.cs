@@ -1,0 +1,54 @@
+using AffixLearnEnglish.Api.Data;
+using AffixLearnEnglish.Api.Services;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
+
+const string FrontendCorsPolicy = "FrontendCorsPolicy";
+
+// Frontend dev server origins (Vite default is 5173; CRA default is 3000).
+var allowedOrigins = builder.Configuration
+    .GetSection("Cors:AllowedOrigins")
+    .Get<string[]>() ?? new[] { "http://localhost:5173", "http://127.0.0.1:5173" };
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(FrontendCorsPolicy, policy =>
+    {
+        policy.WithOrigins(allowedOrigins)
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddDbContext<VocabularyDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("Vocabulary")
+        ?? "Data Source=vocabulary.db"));
+
+builder.Services.AddScoped<IVocabularyService, VocabularyService>();
+
+var app = builder.Build();
+
+// Ensure the SQLite database exists and is seeded from Seed/vocabulary_seed.json on startup.
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<VocabularyDbContext>();
+    db.Database.EnsureCreated();
+    DbSeeder.SeedIfEmpty(db, app.Environment);
+}
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseCors(FrontendCorsPolicy);
+app.UseAuthorization();
+app.MapControllers();
+
+app.Run();
