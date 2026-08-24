@@ -91,10 +91,13 @@ function App() {
   }, [filters, runSearch, selectedLevel]);
 
   // Paging through an existing result set doesn't require re-clicking search.
+  // Scroll back to the top so the new page's results are visible right away
+  // instead of leaving the user parked at the pagination bar at the bottom.
   const handlePageChange = useCallback(
     (nextPage) => {
       setPage(nextPage);
       runSearch(filters, nextPage, selectedLevel);
+      window.scrollTo({ top: 0, behavior: "smooth" });
     },
     [filters, runSearch, selectedLevel]
   );
