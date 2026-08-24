@@ -39,6 +39,13 @@ function App() {
   // Guards against an older, still-in-flight request overwriting a newer one.
   const latestRequestId = useRef(0);
 
+  // Scroll target for "jump to the first word of the new page" — set by
+  // handlePageChange, consumed once the new page has actually rendered
+  // (see the isLoading effect below) so there's one clean scroll instead
+  // of scrolling against the still-showing previous page's layout.
+  const resultsTopRef = useRef(null);
+  const pendingPageScrollRef = useRef(false);
+
   // Load the selectable word lists once on mount, and default to the first
   // one (the backend lists "elementary" first).
   useEffect(() => {
@@ -93,11 +100,21 @@ function App() {
   // Paging through an existing result set doesn't require re-clicking search.
   const handlePageChange = useCallback(
     (nextPage) => {
+      pendingPageScrollRef.current = true;
       setPage(nextPage);
       runSearch(filters, nextPage, selectedLevel);
     },
     [filters, runSearch, selectedLevel]
   );
+
+  // Fires once the new page has finished loading and rendered, so the
+  // scroll targets the new content instead of the page mid-transition.
+  useEffect(() => {
+    if (pendingPageScrollRef.current && !isLoading) {
+      pendingPageScrollRef.current = false;
+      resultsTopRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }, [isLoading]);
 
   // Switching word lists invalidates whatever was on screen — the old
   // results belong to a different database. The dropdown's own word count
@@ -140,7 +157,7 @@ function App() {
       <hr className="divider" />
 
       <section className="results-section">
-        <div className="results-summary">
+        <div ref={resultsTopRef} className="results-summary">
           {error ? (
             <span className="results-summary__error">{error}</span>
           ) : hasSearched ? (
