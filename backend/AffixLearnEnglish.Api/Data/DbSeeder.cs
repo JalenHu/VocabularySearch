@@ -4,22 +4,35 @@ using AffixLearnEnglish.Api.Models;
 namespace AffixLearnEnglish.Api.Data;
 
 /// <summary>
-/// Loads the elementary-school 1200-word list from Seed/vocabulary_seed.json
-/// into the database on first run. The JSON was generated once from the
-/// source spreadsheet (國小英文1200單字.xlsx) — see backend/README.md.
+/// Loads every vocabulary level's word list from its own Seed/*.json file
+/// into the shared VocabularyWords table on first run, tagging each row
+/// with its level key. Every JSON file was generated once from the matching
+/// source spreadsheet — see backend/README.md and
+/// <see cref="VocabularyLevelCatalog"/> for which file backs which level.
 /// </summary>
 public static class DbSeeder
 {
     private record SeedRow(string EnglishWord, string PartOfSpeech, string ChineseMeaning, int LetterCount, string ExampleSentence);
 
-    public static void SeedIfEmpty(VocabularyDbContext db, IWebHostEnvironment env)
+    /// <summary>Ensures the database exists and seeds any catalog level that doesn't have rows yet from its Seed/*.json file.</summary>
+    public static void SeedAllLevels(VocabularyDbContext db, IWebHostEnvironment env)
     {
-        if (db.VocabularyWords.Any())
+        db.Database.EnsureCreated();
+
+        foreach (var level in VocabularyLevelCatalog.Levels)
+        {
+            SeedLevelIfEmpty(db, env, level);
+        }
+    }
+
+    private static void SeedLevelIfEmpty(VocabularyDbContext db, IWebHostEnvironment env, VocabularyLevelInfo level)
+    {
+        if (db.VocabularyWords.Any(w => w.Level == level.Key))
         {
             return;
         }
 
-        var seedPath = Path.Combine(env.ContentRootPath, "Seed", "vocabulary_seed.json");
+        var seedPath = Path.Combine(env.ContentRootPath, "Seed", level.SeedFileName);
         if (!File.Exists(seedPath))
         {
             return;
@@ -33,6 +46,7 @@ public static class DbSeeder
 
         var words = rows.Select(r => new VocabularyWord
         {
+            Level = level.Key,
             EnglishWord = r.EnglishWord,
             PartOfSpeech = r.PartOfSpeech,
             ChineseMeaning = r.ChineseMeaning,

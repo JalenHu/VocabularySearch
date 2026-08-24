@@ -16,11 +16,13 @@ public class VocabularyDbContext : DbContext
         modelBuilder.Entity<VocabularyWord>(entity =>
         {
             entity.HasKey(w => w.Id);
+            entity.Property(w => w.Level).IsRequired().HasMaxLength(20);
             entity.Property(w => w.EnglishWord).IsRequired().HasMaxLength(100);
             entity.Property(w => w.PartOfSpeech).HasMaxLength(20);
             entity.Property(w => w.ChineseMeaning).IsRequired().HasMaxLength(200);
-            entity.HasIndex(w => w.EnglishWord);
-            entity.HasIndex(w => w.LetterCount);
+            // Every query filters by Level first, so lead with it in both indexes.
+            entity.HasIndex(w => new { w.Level, w.EnglishWord });
+            entity.HasIndex(w => new { w.Level, w.LetterCount });
         });
     }
 }

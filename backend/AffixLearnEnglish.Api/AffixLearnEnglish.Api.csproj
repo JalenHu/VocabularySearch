@@ -17,8 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Seed data is copied to the output directory so the app can read it on first run -->
-    <None Include="Seed\vocabulary_seed.json">
+    <!-- Seed data (one JSON file per vocabulary level) is copied to the
+         output directory so the app can read it on first run even when
+         launched from bin/. See Data/VocabularyLevelCatalog.cs. -->
+    <None Include="Seed\*.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -1,3 +1,4 @@
+using AffixLearnEnglish.Api.Data;
 using AffixLearnEnglish.Api.Models;
 using AffixLearnEnglish.Api.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -7,8 +8,8 @@ namespace AffixLearnEnglish.Api.Controllers;
 /// <summary>
 /// The single point of contact between the React frontend and the .NET
 /// backend. The frontend's search filter panel (start with / end with /
-/// between with, result count, sort direction) maps directly onto the
-/// query parameters below.
+/// between with, result count, sort direction, and which word-list level to
+/// search) maps directly onto the query parameters below.
 /// </summary>
 [ApiController]
 [Route("api/[controller]")]
@@ -24,7 +25,7 @@ public class VocabularyController : ControllerBase
     }
 
     /// <summary>
-    /// GET /api/vocabulary/search?query=ap&amp;mode=StartsWith&amp;maxResults=20&amp;sortDirection=Ascending
+    /// GET /api/vocabulary/search?query=ap&amp;mode=StartsWith&amp;maxResults=20&amp;sortDirection=Ascending&amp;level=junior
     /// </summary>
     [HttpGet("search")]
     [ProducesResponseType(typeof(VocabularySearchResponse), StatusCodes.Status200OK)]
@@ -36,7 +37,8 @@ public class VocabularyController : ControllerBase
         [FromQuery] WordCountSortDirection sortDirection = WordCountSortDirection.Ascending,
         [FromQuery] int? minLetterCount = null,
         [FromQuery] int? maxLetterCount = null,
-        [FromQuery] int pageNumber = 1)
+        [FromQuery] int pageNumber = 1,
+        [FromQuery] string? level = null)
     {
         if (maxResults is < 0)
         {
@@ -58,6 +60,12 @@ public class VocabularyController : ControllerBase
             return BadRequest("pageNumber must be 1 or greater.");
         }
 
+        if (level is not null && !VocabularyLevelCatalog.IsValidKey(level))
+        {
+            var validKeys = string.Join(", ", VocabularyLevelCatalog.Levels.Select(l => l.Key));
+            return BadRequest($"level must be one of: {validKeys}");
+        }
+
         var request = new VocabularySearchRequest
         {
             Query = query,
@@ -66,22 +74,37 @@ public class VocabularyController : ControllerBase
             SortDirection = sortDirection,
             MinLetterCount = minLetterCount,
             MaxLetterCount = maxLetterCount,
-            PageNumber = pageNumber
+            PageNumber = pageNumber,
+            Level = level
         };
 
         var response = _vocabularyService.Search(request);
         _logger.LogInformation(
-            "Vocabulary search: query='{Query}' mode={Mode} maxResults={MaxResults} sortDirection={SortDirection} minLetterCount={MinLetterCount} maxLetterCount={MaxLetterCount} pageNumber={PageNumber} -> {Count}/{Total} results",
-            query, mode, maxResults, sortDirection, minLetterCount, maxLetterCount, pageNumber, response.Results.Count, response.TotalMatches);
+            "Vocabulary search: level={Level} query='{Query}' mode={Mode} maxResults={MaxResults} sortDirection={SortDirection} minLetterCount={MinLetterCount} maxLetterCount={MaxLetterCount} pageNumber={PageNumber} -> {Count}/{Total} results",
+            level, query, mode, maxResults, sortDirection, minLetterCount, maxLetterCount, pageNumber, response.Results.Count, response.TotalMatches);
 
         return Ok(response);
     }
 
-    /// <summary>GET /api/vocabulary/count — total words available, used for the "1200 words" style header.</summary>
+    /// <summary>GET /api/vocabulary/count?level=junior — total words available for a level, used for the "N words" style header.</summary>
     [HttpGet("count")]
-    public ActionResult<int> Count()
+    public ActionResult<int> Count([FromQuery] string? level = null)
     {
-        var response = _vocabularyService.Search(new VocabularySearchRequest());
+        if (level is not null && !VocabularyLevelCatalog.IsValidKey(level))
+        {
+            var validKeys = string.Join(", ", VocabularyLevelCatalog.Levels.Select(l => l.Key));
+            return BadRequest($"level must be one of: {validKeys}");
+        }
+
+        var response = _vocabularyService.Search(new VocabularySearchRequest { Level = level });
         return Ok(response.TotalMatches);
+    }
+
+    /// <summary>GET /api/vocabulary/levels — the selectable word lists (key/label/description/wordCount), one per database, for the level picker in the UI.</summary>
+    [HttpGet("levels")]
+    [ProducesResponseType(typeof(List<VocabularyLevelDto>), StatusCodes.Status200OK)]
+    public ActionResult<List<VocabularyLevelDto>> Levels()
+    {
+        return Ok(_vocabularyService.GetLevels());
     }
 }
