@@ -1,12 +1,16 @@
 namespace AffixLearnEnglish.Api.Models;
 
 /// <summary>
-/// A single vocabulary entry stored in the database.
-/// Sourced from the elementary-school 1200-word list (Chinese -> English).
+/// A single vocabulary entry stored in the database. All levels share one
+/// table; <see cref="Level"/> is the key from VocabularyLevelCatalog (e.g.
+/// "elementary", "junior") that the search/count endpoints filter by.
 /// </summary>
 public class VocabularyWord
 {
     public int Id { get; set; }
+
+    /// <summary>Which vocabulary level/word list this entry belongs to — see VocabularyLevelCatalog.</summary>
+    public string Level { get; set; } = string.Empty;
 
     /// <summary>The English word or phrase, e.g. "act", "department store".</summary>
     public string EnglishWord { get; set; } = string.Empty;

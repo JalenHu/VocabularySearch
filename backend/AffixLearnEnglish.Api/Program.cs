@@ -25,6 +25,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// All vocabulary levels (elementary/junior/highschool/university/toefl)
+// live in one database, distinguished by VocabularyWord.Level — see
+// Data/VocabularyLevelCatalog.cs.
 builder.Services.AddDbContext<VocabularyDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("Vocabulary")
         ?? "Data Source=vocabulary.db"));
@@ -33,12 +36,12 @@ builder.Services.AddScoped<IVocabularyService, VocabularyService>();
 
 var app = builder.Build();
 
-// Ensure the SQLite database exists and is seeded from Seed/vocabulary_seed.json on startup.
+// Ensure the database exists and seed any level that doesn't have rows yet
+// from its Seed/*.json file.
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<VocabularyDbContext>();
-    db.Database.EnsureCreated();
-    DbSeeder.SeedIfEmpty(db, app.Environment);
+    DbSeeder.SeedAllLevels(db, app.Environment);
 }
 
 if (app.Environment.IsDevelopment())

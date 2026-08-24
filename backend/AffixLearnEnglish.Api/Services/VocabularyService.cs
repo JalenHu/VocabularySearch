@@ -9,6 +9,10 @@ namespace AffixLearnEnglish.Api.Services;
 /// result-count limiting and word-count sort ordering described in the
 /// product brief. This is intentionally simple for the prototype — it will
 /// likely move behind a proper API layer (paging, caching, etc.) later.
+///
+/// All vocabulary levels share one database/table; every query here filters
+/// by the requested level's key (request.Level, resolved against
+/// VocabularyLevelCatalog) so levels never mix.
 /// </summary>
 public class VocabularyService : IVocabularyService
 {
@@ -21,7 +25,8 @@ public class VocabularyService : IVocabularyService
 
     public VocabularySearchResponse Search(VocabularySearchRequest request)
     {
-        var query = _db.VocabularyWords.AsQueryable();
+        var levelKey = VocabularyLevelCatalog.Resolve(request.Level).Key;
+        var query = _db.VocabularyWords.Where(w => w.Level == levelKey);
 
         var term = request.Query?.Trim() ?? string.Empty;
         if (term.Length > 0)
@@ -76,6 +81,17 @@ public class VocabularyService : IVocabularyService
             .ToList();
 
         return new VocabularySearchResponse(results, totalMatches);
+    }
+
+    public IReadOnlyList<VocabularyLevelDto> GetLevels()
+    {
+        return VocabularyLevelCatalog.Levels
+            .Select(level =>
+            {
+                var wordCount = _db.VocabularyWords.Count(w => w.Level == level.Key);
+                return new VocabularyLevelDto(level.Key, level.Label, level.Description, wordCount);
+            })
+            .ToList();
     }
 
     /// <summary>

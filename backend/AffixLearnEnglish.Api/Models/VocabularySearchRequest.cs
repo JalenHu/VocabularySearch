@@ -25,4 +25,11 @@ public class VocabularySearchRequest
 
     /// <summary>Only include words with at most this many letters. Null = no upper bound.</summary>
     public int? MaxLetterCount { get; set; }
+
+    /// <summary>
+    /// Which vocabulary level/word list to search (e.g. "elementary", "junior",
+    /// "highschool", "university", "toefl") — see VocabularyLevelCatalog.
+    /// Null or unrecognized falls back to the default level.
+    /// </summary>
+    public string? Level { get; set; }
 }

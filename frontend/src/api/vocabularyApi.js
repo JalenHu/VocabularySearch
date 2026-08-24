@@ -10,7 +10,7 @@ const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5209
 /**
  * Calls GET /api/vocabulary/search with the current filter state.
  *
- * @param {{ query: string, mode: SearchMode, maxResults: number|null, sortDirection: SortDirection, minLetterCount: number|null, maxLetterCount: number|null, pageNumber: number|null }} filters
+ * @param {{ query: string, mode: SearchMode, maxResults: number|null, sortDirection: SortDirection, minLetterCount: number|null, maxLetterCount: number|null, pageNumber: number|null, level: string|null }} filters
  * @returns {Promise<{ results: Array, totalMatches: number }>}
  */
 export async function searchVocabulary({
@@ -20,7 +20,8 @@ export async function searchVocabulary({
   sortDirection,
   minLetterCount,
   maxLetterCount,
-  pageNumber
+  pageNumber,
+  level
 }) {
   const params = new URLSearchParams();
   if (query) params.set("query", query);
@@ -30,6 +31,7 @@ export async function searchVocabulary({
   if (minLetterCount) params.set("minLetterCount", String(minLetterCount));
   if (maxLetterCount) params.set("maxLetterCount", String(maxLetterCount));
   if (pageNumber) params.set("pageNumber", String(pageNumber));
+  if (level) params.set("level", level);
 
   const response = await fetch(`${API_BASE_URL}/vocabulary/search?${params.toString()}`);
 
@@ -47,9 +49,18 @@ export async function searchVocabulary({
   };
 }
 
-/** Calls GET /api/vocabulary/count for the unfiltered total word count (header display). */
-export async function getVocabularyCount() {
-  const response = await fetch(`${API_BASE_URL}/vocabulary/count`);
+/**
+ * Calls GET /api/vocabulary/count for the unfiltered total word count of one
+ * level (header display). Omit `level` for the backend's default level.
+ *
+ * @param {string|null} [level]
+ */
+export async function getVocabularyCount(level) {
+  const params = new URLSearchParams();
+  if (level) params.set("level", level);
+  const query = params.toString();
+
+  const response = await fetch(`${API_BASE_URL}/vocabulary/count${query ? `?${query}` : ""}`);
 
   if (!response.ok) {
     const message = await response.text().catch(() => response.statusText);
@@ -57,4 +68,22 @@ export async function getVocabularyCount() {
   }
 
   return response.json();
+}
+
+/**
+ * Calls GET /api/vocabulary/levels for the selectable word lists — one per
+ * database — so the UI can offer a level picker under the page description.
+ *
+ * @returns {Promise<Array<{ key: string, label: string, description: string, wordCount: number }>>}
+ */
+export async function getVocabularyLevels() {
+  const response = await fetch(`${API_BASE_URL}/vocabulary/levels`);
+
+  if (!response.ok) {
+    const message = await response.text().catch(() => response.statusText);
+    throw new Error(message || `Levels request failed (${response.status})`);
+  }
+
+  const data = await response.json();
+  return Array.isArray(data) ? data : [];
 }
