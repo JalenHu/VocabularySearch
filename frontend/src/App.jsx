@@ -39,10 +39,6 @@ function App() {
   // Guards against an older, still-in-flight request overwriting a newer one.
   const latestRequestId = useRef(0);
 
-  // Scroll target for "jump to top of the word list" on page change — the
-  // start of the results, not the very top of the page (header/filters).
-  const resultsTopRef = useRef(null);
-
   // Load the selectable word lists once on mount, and default to the first
   // one (the backend lists "elementary" first).
   useEffect(() => {
@@ -95,13 +91,10 @@ function App() {
   }, [filters, runSearch, selectedLevel]);
 
   // Paging through an existing result set doesn't require re-clicking search.
-  // Jump to the first word of the new page instead of leaving the user
-  // parked at the pagination bar at the bottom.
   const handlePageChange = useCallback(
     (nextPage) => {
       setPage(nextPage);
       runSearch(filters, nextPage, selectedLevel);
-      resultsTopRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     },
     [filters, runSearch, selectedLevel]
   );
@@ -147,7 +140,7 @@ function App() {
       <hr className="divider" />
 
       <section className="results-section">
-        <div ref={resultsTopRef} className="results-summary">
+        <div className="results-summary">
           {error ? (
             <span className="results-summary__error">{error}</span>
           ) : hasSearched ? (
