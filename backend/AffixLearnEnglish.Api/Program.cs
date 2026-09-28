@@ -4,6 +4,15 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Render (and most container hosts) tell the app which port to listen on
+// via the PORT env var, and expect it bound on 0.0.0.0. Locally PORT is
+// unset, so this leaves Kestrel's normal defaults untouched.
+var renderPort = Environment.GetEnvironmentVariable("PORT");
+if (!string.IsNullOrEmpty(renderPort))
+{
+    builder.WebHost.UseUrls($"http://0.0.0.0:{renderPort}");
+}
+
 const string FrontendCorsPolicy = "FrontendCorsPolicy";
 
 // Frontend dev server origins (Vite default is 5173; CRA default is 3000).
